@@ -1,0 +1,412 @@
+index,PHECODE,PHENOTYPE,STR,SAB,CODE,TFIDF,voca_concept
+737535,389.1,Sensorineural hearing loss,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",ICD10CM,H90.4,25.275926651675864,ICD10CM:H90.4
+737538,389.1,Sensorineural hearing loss,Central hearing loss NOS,ICD10CM,H90.5,25.275926651675864,ICD10CM:H90.5
+737536,389.1,Sensorineural hearing loss,"Sensorineural hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side",ICD10CM,H90.41,25.275926651675864,ICD10CM:H90.41
+737785,389.1,Sensorineural hearing loss,"Sensorineural hearing loss, unspecified",ICD9CM,389.10,25.275926651675864,ICD9CM:389.10
+737934,389.1,Sensorineural hearing loss,Perceptive deafness [diagnos],SNOMEDCT_US,267770004,25.275926651675864,SNOMEDCT_US:267770004
+737534,389.1,Sensorineural hearing loss,"Sensorineural hearing loss, bilateral",ICD10CM,H90.3,25.275926651675864,ICD10CM:H90.3
+737793,389.1,Sensorineural hearing loss,"Sensorineural hearing loss, bilateral",ICD9CM,389.18,25.275926651675864,ICD9CM:389.18
+737911,389.1,Sensorineural hearing loss,Perceptive hearing loss NOS,SNOMEDCT_US,194427003,25.275926651675864,SNOMEDCT_US:194427003
+737910,389.1,Sensorineural hearing loss,Perceptive deafness,SNOMEDCT_US,194421002,25.275926651675864,SNOMEDCT_US:194421002
+737792,389.1,Sensorineural hearing loss,"Sensory hearing loss, unilateral",ICD9CM,389.17,25.275926651675864,ICD9CM:389.17
+737791,389.1,Sensorineural hearing loss,"Sensorineural hearing loss, asymmetrical",ICD9CM,389.16,25.275926651675864,ICD9CM:389.16
+737790,389.1,Sensorineural hearing loss,"Sensorineural hearing loss, unilateral",ICD9CM,389.15,25.275926651675864,ICD9CM:389.15
+737789,389.1,Sensorineural hearing loss,Central hearing loss,ICD9CM,389.14,25.275926651675864,ICD9CM:389.14
+737788,389.1,Sensorineural hearing loss,"Neural hearing loss, unilateral",ICD9CM,389.13,25.275926651675864,ICD9CM:389.13
+737787,389.1,Sensorineural hearing loss,"Neural hearing loss, bilateral",ICD9CM,389.12,25.275926651675864,ICD9CM:389.12
+737786,389.1,Sensorineural hearing loss,"Sensory hearing loss, bilateral",ICD9CM,389.11,25.275926651675864,ICD9CM:389.11
+737886,389.1,Sensorineural hearing loss,Perceptive deafness [diagnos],SNOMEDCT_US,155256000,25.275926651675864,SNOMEDCT_US:155256000
+737537,389.1,Sensorineural hearing loss,"Sensorineural hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side",ICD10CM,H90.42,25.275926651675864,ICD10CM:H90.42
+737784,389.1,Sensorineural hearing loss,Sensorineural hearing loss,ICD9CM,389.1,25.275926651675864,ICD9CM:389.1
+737550,389.1,Sensorineural hearing loss,"Sensorineural hearing loss, unilateral, left ear, with restricted hearing on the contralateral side",ICD10CM,H90.A22,25.275926651675864,ICD10CM:H90.A22
+737549,389.1,Sensorineural hearing loss,"Sensorineural hearing loss, unilateral, right ear, with restricted hearing on the contralateral side",ICD10CM,H90.A21,25.275926651675864,ICD10CM:H90.A21
+737972,389.1,Sensorineural hearing loss,Neurosensory deafness,SNOMEDCT_US,60700002,25.275926651675864,SNOMEDCT_US:60700002
+737548,389.1,Sensorineural hearing loss,"Sensorineural hearing loss, unilateral, with restricted hearing on the contralateral side",ICD10CM,H90.A2,25.275926651675864,ICD10CM:H90.A2
+737821,389.1,Sensorineural hearing loss,Hearing impairment,LNC,16989-8,21.87678450155293,LNC:16989-8
+737823,389.1,Sensorineural hearing loss,Hearing impaired,LNC,17308-0,21.87678450155293,LNC:17308-0
+737828,389.1,Sensorineural hearing loss,Hearing defect(s),LNC,24742-1,21.87678450155293,LNC:24742-1
+737838,389.1,Sensorineural hearing loss,Hearing loss,LNC,56780-7,21.87678450155293,LNC:56780-7
+737849,389.1,Sensorineural hearing loss,Hearing loss,LNC,MTHU021608,21.87678450155293,LNC:MTHU021608
+737856,389.1,Sensorineural hearing loss,Impaired hearing,SNOMEDCT_US,111543003,21.87678450155293,SNOMEDCT_US:111543003
+737932,389.1,Sensorineural hearing loss,Hearing loss,SNOMEDCT_US,267764005,21.87678450155293,SNOMEDCT_US:267764005
+737907,389.1,Sensorineural hearing loss,Deafness,SNOMEDCT_US,194411005,21.87678450155293,SNOMEDCT_US:194411005
+737884,389.1,Sensorineural hearing loss,Hearing loss,SNOMEDCT_US,155254002,21.87678450155293,SNOMEDCT_US:155254002
+737880,389.1,Sensorineural hearing loss,Hearing loss,SNOMEDCT_US,155242002,21.87678450155293,SNOMEDCT_US:155242002
+737966,389.1,Sensorineural hearing loss,BM - Basilar membrane,SNOMEDCT_US,50862003,20.07740809730902,SNOMEDCT_US:50862003
+737967,389.1,Sensorineural hearing loss,Corti cell,SNOMEDCT_US,52148002,12.990264249493594,SNOMEDCT_US:52148002
+737984,389.1,Sensorineural hearing loss,Cochlea,SNOMEDCT_US,80169004,12.596242118697573,SNOMEDCT_US:80169004
+737847,389.1,Sensorineural hearing loss,Noise,LNC,MTHU021536,12.23546696818365,LNC:MTHU021536
+737842,389.1,Sensorineural hearing loss,Noise,LNC,75188-0,12.23546696818365,LNC:75188-0
+737914,389.1,Sensorineural hearing loss,Inner ear,SNOMEDCT_US,22945000,9.903934079099926,SNOMEDCT_US:22945000
+737942,389.1,Sensorineural hearing loss,Labyrinth structure,SNOMEDCT_US,302462009,9.903934079099926,SNOMEDCT_US:302462009
+737915,389.1,Sensorineural hearing loss,Loudness,SNOMEDCT_US,24547000,9.74522000024521,SNOMEDCT_US:24547000
+737923,389.1,Sensorineural hearing loss,Automated pure tone audiometry,SNOMEDCT_US,252580009,9.67950818199486,SNOMEDCT_US:252580009
+737826,389.1,Sensorineural hearing loss,Ear and related structures,LNC,22163-2,9.647714980233909,LNC:22163-2
+737824,389.1,Sensorineural hearing loss,Ear,LNC,21929-7,9.647714980233909,LNC:21929-7
+737860,389.1,Sensorineural hearing loss,Ear structure,SNOMEDCT_US,117590005,9.647714980233909,SNOMEDCT_US:117590005
+737843,389.1,Sensorineural hearing loss,Ear,LNC,MTHU001407,9.647714980233909,LNC:MTHU001407
+737840,389.1,Sensorineural hearing loss,Ear,LNC,7188-8,9.647714980233909,LNC:7188-8
+737933,389.1,Sensorineural hearing loss,Presbyacusis,SNOMEDCT_US,267767003,8.991528060152781,SNOMEDCT_US:267767003
+737881,389.1,Sensorineural hearing loss,Presbyacusis (& [senile &/or other]),SNOMEDCT_US,155245000,8.991528060152781,SNOMEDCT_US:155245000
+737920,389.1,Sensorineural hearing loss,Sound - physical agent,SNOMEDCT_US,25200002,8.387248298974663,SNOMEDCT_US:25200002
+737858,389.1,Sensorineural hearing loss,Cochlear division of vestibulocochlear nerve,SNOMEDCT_US,113313006,8.105519332993739,SNOMEDCT_US:113313006
+737416,389.1,Sensorineural hearing loss,Immunohistochemistry,CPT,88344,7.716422686836593,CPT:88344
+737978,389.1,Sensorineural hearing loss,Immunohistochemistry,SNOMEDCT_US,708097004,7.716422686836593,SNOMEDCT_US:708097004
+737414,389.1,Sensorineural hearing loss,Immunohistochemistry,CPT,88341,7.716422686836593,CPT:88341
+737861,389.1,Sensorineural hearing loss,Immunohistochemistry procedure,SNOMEDCT_US,117617002,7.716422686836593,SNOMEDCT_US:117617002
+737415,389.1,Sensorineural hearing loss,Immunohistochemistry,CPT,88342,7.716422686836593,CPT:88342
+737864,389.1,Sensorineural hearing loss,Auditory function,SNOMEDCT_US,128541009,7.363847726171561,SNOMEDCT_US:128541009
+737825,389.1,Sensorineural hearing loss,Hearing,LNC,22109-5,7.363847726171561,LNC:22109-5
+737964,389.1,Sensorineural hearing loss,Audition,SNOMEDCT_US,47078008,7.363847726171561,SNOMEDCT_US:47078008
+737836,389.1,Sensorineural hearing loss,Hearing,LNC,30518-2,7.363847726171561,LNC:30518-2
+737846,389.1,Sensorineural hearing loss,Hearing,LNC,MTHU015042,7.363847726171561,LNC:MTHU015042
+737852,389.1,Sensorineural hearing loss,Hearing,LNC,MTHU051593,7.363847726171561,LNC:MTHU051593
+737868,389.1,Sensorineural hearing loss,Noises in ear,SNOMEDCT_US,139618007,7.239417560792974,SNOMEDCT_US:139618007
+737893,389.1,Sensorineural hearing loss,Tinnitus symptom NOS,SNOMEDCT_US,162355009,7.239417560792974,SNOMEDCT_US:162355009
+737940,389.1,Sensorineural hearing loss,Finding of tinnitus,SNOMEDCT_US,300200005,7.239417560792974,SNOMEDCT_US:300200005
+737883,389.1,Sensorineural hearing loss,Tinnitus,SNOMEDCT_US,155248003,7.239417560792974,SNOMEDCT_US:155248003
+737870,389.1,Sensorineural hearing loss,Tinnitus symptom NOS,SNOMEDCT_US,139624001,7.239417560792974,SNOMEDCT_US:139624001
+737904,389.1,Sensorineural hearing loss,(Tinnitus) or (hearing noises),SNOMEDCT_US,194392000,7.239417560792974,SNOMEDCT_US:194392000
+737869,389.1,Sensorineural hearing loss,Ringing in ear,SNOMEDCT_US,139621009,7.239417560792974,SNOMEDCT_US:139621009
+737906,389.1,Sensorineural hearing loss,Tinnitus NOS,SNOMEDCT_US,194395003,7.239417560792974,SNOMEDCT_US:194395003
+737905,389.1,Sensorineural hearing loss,Unspecified tinnitus,SNOMEDCT_US,194393005,7.239417560792974,SNOMEDCT_US:194393005
+737988,389.1,Sensorineural hearing loss,Ototoxicity,SNOMEDCT_US,9062008,6.734552186723051,SNOMEDCT_US:9062008
+737959,389.1,Sensorineural hearing loss,Death,SNOMEDCT_US,419620001,6.670963299312229,SNOMEDCT_US:419620001
+737817,389.1,Sensorineural hearing loss,Expired,LNC,10325-1,6.670963299312229,LNC:10325-1
+737819,389.1,Sensorineural hearing loss,Deceased,LNC,10939-9,6.670963299312229,LNC:10939-9
+737947,389.1,Sensorineural hearing loss,Audiogram,SNOMEDCT_US,34091002,6.4254404744629765,SNOMEDCT_US:34091002
+737957,389.1,Sensorineural hearing loss,Auditory acuity evaluation,SNOMEDCT_US,398280008,6.4254404744629765,SNOMEDCT_US:398280008
+737956,389.1,Sensorineural hearing loss,Clinical test of hearing,SNOMEDCT_US,398171003,6.4254404744629765,SNOMEDCT_US:398171003
+737871,389.1,Sensorineural hearing loss,Auditory testing,SNOMEDCT_US,141914007,6.4254404744629765,SNOMEDCT_US:141914007
+737945,389.1,Sensorineural hearing loss,Audiogram,SNOMEDCT_US,32921008,6.4254404744629765,SNOMEDCT_US:32921008
+737894,389.1,Sensorineural hearing loss,Auditory testing,SNOMEDCT_US,164745006,6.4254404744629765,SNOMEDCT_US:164745006
+737873,389.1,Sensorineural hearing loss,Individual hearing examination,SNOMEDCT_US,148632000,6.4254404744629765,SNOMEDCT_US:148632000
+737808,389.1,Sensorineural hearing loss,Clinical hearing test,ICD9CM,95.42,6.4254404744629765,ICD9CM:95.42
+737921,389.1,Sensorineural hearing loss,Auditory testing,SNOMEDCT_US,252575000,6.4254404744629765,SNOMEDCT_US:252575000
+737809,389.1,Sensorineural hearing loss,Hearing examination NOS,ICD9CM,95.47,6.4254404744629765,ICD9CM:95.47
+737952,389.1,Sensorineural hearing loss,Stereocilium,SNOMEDCT_US,36828001,6.29283951361815,SNOMEDCT_US:36828001
+737888,389.1,Sensorineural hearing loss,Deafness NOS,SNOMEDCT_US,155259007,6.174409248472145,SNOMEDCT_US:155259007
+737890,389.1,Sensorineural hearing loss,Deafness,SNOMEDCT_US,162341001,6.174409248472145,SNOMEDCT_US:162341001
+737930,389.1,Sensorineural hearing loss,Deafness NOS,SNOMEDCT_US,267678002,6.174409248472145,SNOMEDCT_US:267678002
+737867,389.1,Sensorineural hearing loss,Deafness,SNOMEDCT_US,139613003,6.174409248472145,SNOMEDCT_US:139613003
+737912,389.1,Sensorineural hearing loss,Deafness NOS,SNOMEDCT_US,194432002,6.174409248472145,SNOMEDCT_US:194432002
+737954,389.1,Sensorineural hearing loss,Vestibular schwannoma,SNOMEDCT_US,389982003,5.893857926524508,SNOMEDCT_US:389982003
+737935,389.1,Sensorineural hearing loss,Acoustic neuroma,SNOMEDCT_US,269643009,5.893857926524508,SNOMEDCT_US:269643009
+737863,389.1,Sensorineural hearing loss,AN - Acoustic neuroma,SNOMEDCT_US,126949007,5.893857926524508,SNOMEDCT_US:126949007
+737877,389.1,Sensorineural hearing loss,Acoustic neuroma,SNOMEDCT_US,154621002,5.893857926524508,SNOMEDCT_US:154621002
+737992,389.1,Sensorineural hearing loss,Acoustic neuroma,SNOMEDCT_US,985004,5.893857926524508,SNOMEDCT_US:985004
+737922,389.1,Sensorineural hearing loss,PTA - Pure tone audiometry,SNOMEDCT_US,252577008,5.869214799306721,SNOMEDCT_US:252577008
+737969,389.1,Sensorineural hearing loss,Low frequency,SNOMEDCT_US,5878004,5.727456053658615,SNOMEDCT_US:5878004
+737987,389.1,Sensorineural hearing loss,Acoustic and vestibular nerves,SNOMEDCT_US,8598002,5.489959765367582,SNOMEDCT_US:8598002
+737927,389.1,Sensorineural hearing loss,dB,SNOMEDCT_US,259042002,5.245058035089122,SNOMEDCT_US:259042002
+737749,389.1,Sensorineural hearing loss,Meniere's disease NOS,ICD9CM,386.00,5.238984823577342,ICD9CM:386.00
+737751,389.1,Sensorineural hearing loss,"Active Meniere's disease, cochlear",ICD9CM,386.02,5.238984823577342,ICD9CM:386.02
+737903,389.1,Sensorineural hearing loss,Meniere's disease NOS,SNOMEDCT_US,194352002,5.238984823577342,SNOMEDCT_US:194352002
+737516,389.1,Sensorineural hearing loss,Meniere's disease,ICD10CM,H81.0,5.238984823577342,ICD10CM:H81.0
+737752,389.1,Sensorineural hearing loss,"Active Meniere's disease, vestibular",ICD9CM,386.03,5.238984823577342,ICD9CM:386.03
+737517,389.1,Sensorineural hearing loss,"Meniere's disease, right ear",ICD10CM,H81.01,5.238984823577342,ICD10CM:H81.01
+737865,389.1,Sensorineural hearing loss,Auditory vertigo,SNOMEDCT_US,13445001,5.238984823577342,SNOMEDCT_US:13445001
+737879,389.1,Sensorineural hearing loss,Meniere syndrome,SNOMEDCT_US,155235002,5.238984823577342,SNOMEDCT_US:155235002
+737901,389.1,Sensorineural hearing loss,Meniere disease,SNOMEDCT_US,194346003,5.238984823577342,SNOMEDCT_US:194346003
+737750,389.1,Sensorineural hearing loss,"Active Meniere's disease, cochleovestibular",ICD9CM,386.01,5.238984823577342,ICD9CM:386.01
+737902,389.1,Sensorineural hearing loss,Unspecified Meniere's disease,SNOMEDCT_US,194347007,5.238984823577342,SNOMEDCT_US:194347007
+737518,389.1,Sensorineural hearing loss,"Meniere's disease, left ear",ICD10CM,H81.02,5.238984823577342,ICD10CM:H81.02
+737753,389.1,Sensorineural hearing loss,Inactive Meniere's disease,ICD9CM,386.04,5.238984823577342,ICD9CM:386.04
+737748,389.1,Sensorineural hearing loss,Meniere's disease,ICD9CM,386.0,5.238984823577342,ICD9CM:386.0
+737521,389.1,Sensorineural hearing loss,Aural vertigo,ICD10CM,H81.31,5.238984823577342,ICD10CM:H81.31
+737519,389.1,Sensorineural hearing loss,"Meniere's disease, bilateral",ICD10CM,H81.03,5.238984823577342,ICD10CM:H81.03
+737520,389.1,Sensorineural hearing loss,"Meniere's disease, unspecified ear",ICD10CM,H81.09,5.238984823577342,ICD10CM:H81.09
+737882,389.1,Sensorineural hearing loss,Noise-induced hearing loss,SNOMEDCT_US,155246004,4.348436337474007,SNOMEDCT_US:155246004
+737990,389.1,Sensorineural hearing loss,Unilateral hearing loss,SNOMEDCT_US,95819006,4.317010796606129,SNOMEDCT_US:95819006
+737948,389.1,Sensorineural hearing loss,Severe hearing loss,SNOMEDCT_US,3561000119106,4.239502892675386,SNOMEDCT_US:3561000119106
+737979,389.1,Sensorineural hearing loss,Sudden sensorineural hearing loss,SNOMEDCT_US,715239002,4.182793353606046,SNOMEDCT_US:715239002
+737851,389.1,Sensorineural hearing loss,Threshold,LNC,MTHU041161,3.9933377208431216,LNC:MTHU041161
+737839,389.1,Sensorineural hearing loss,Threshold,LNC,6875-1,3.9933377208431216,LNC:6875-1
+737862,389.1,Sensorineural hearing loss,THRESHOLD,SNOMEDCT_US,118589004,3.9933377208431216,SNOMEDCT_US:118589004
+737916,389.1,Sensorineural hearing loss,Threshold,SNOMEDCT_US,246510005,3.9933377208431216,SNOMEDCT_US:246510005
+737833,389.1,Sensorineural hearing loss,Threshold,LNC,130486-6,3.9933377208431216,LNC:130486-6
+737970,389.1,Sensorineural hearing loss,Aid to hearing,SNOMEDCT_US,6012004,3.894788431698156,SNOMEDCT_US:6012004
+737938,389.1,Sensorineural hearing loss,High frequency,SNOMEDCT_US,27732004,3.790516155157374,SNOMEDCT_US:27732004
+737831,389.1,Sensorineural hearing loss,Curved,LNC,9211-9,3.452899286544464,LNC:9211-9
+737971,389.1,Sensorineural hearing loss,Curved,SNOMEDCT_US,60301000,3.452899286544464,SNOMEDCT_US:60301000
+737908,389.1,Sensorineural hearing loss,Unspecified conductive hearing loss,SNOMEDCT_US,194412003,3.311797692835792,SNOMEDCT_US:194412003
+737909,389.1,Sensorineural hearing loss,Conductive hearing loss NOS,SNOMEDCT_US,194420001,3.311797692835792,SNOMEDCT_US:194420001
+737885,389.1,Sensorineural hearing loss,Conductive hearing loss,SNOMEDCT_US,155255001,3.311797692835792,SNOMEDCT_US:155255001
+737827,389.1,Sensorineural hearing loss,Conductive hearing loss,LNC,24487-3,3.311797692835792,LNC:24487-3
+737866,389.1,Sensorineural hearing loss,Hearing normal,SNOMEDCT_US,139611001,3.2743655147358384,SNOMEDCT_US:139611001
+737807,389.1,Sensorineural hearing loss,Audiometry,ICD9CM,95.41,3.2743655147358384,ICD9CM:95.41
+737937,389.1,Sensorineural hearing loss,Audiometry,SNOMEDCT_US,277300001,3.2743655147358384,SNOMEDCT_US:277300001
+737857,389.1,Sensorineural hearing loss,Normal hearing,SNOMEDCT_US,11213000,3.2743655147358384,SNOMEDCT_US:11213000
+737913,389.1,Sensorineural hearing loss,Audiometric test,SNOMEDCT_US,21727005,3.2743655147358384,SNOMEDCT_US:21727005
+737889,389.1,Sensorineural hearing loss,Hearing normal,SNOMEDCT_US,162339002,3.2743655147358384,SNOMEDCT_US:162339002
+737895,389.1,Sensorineural hearing loss,Audiometry,SNOMEDCT_US,164760009,3.2743655147358384,SNOMEDCT_US:164760009
+737872,389.1,Sensorineural hearing loss,Audiometry,SNOMEDCT_US,141925003,3.2743655147358384,SNOMEDCT_US:141925003
+737958,389.1,Sensorineural hearing loss,Intratympanic,SNOMEDCT_US,418091004,3.2379625450150664,SNOMEDCT_US:418091004
+737944,389.1,Sensorineural hearing loss,[V]Exposure to noise,SNOMEDCT_US,316172007,3.146419756809075,SNOMEDCT_US:316172007
+737960,389.1,Sensorineural hearing loss,Mitochondrial mutation,SNOMEDCT_US,430934002,3.146419756809075,SNOMEDCT_US:430934002
+737896,389.1,Sensorineural hearing loss,BC - Bone conduction,SNOMEDCT_US,16476001,2.958968006588019,SNOMEDCT_US:16476001
+737925,389.1,Sensorineural hearing loss,Middle ear,SNOMEDCT_US,25342003,2.668535280030413,SNOMEDCT_US:25342003
+737816,389.1,Sensorineural hearing loss,"During the past 12 months, what is the longest time that one episode of this pain has lasted [PhenX]",LNC,67134-7,2.609061802484405,LNC:67134-7
+737943,389.1,Sensorineural hearing loss,Conversational disorder,SNOMEDCT_US,310826002,2.509676012163628,SNOMEDCT_US:310826002
+737924,389.1,Sensorineural hearing loss,Speech audiometry,SNOMEDCT_US,252592009,2.509676012163628,SNOMEDCT_US:252592009
+737834,389.1,Sensorineural hearing loss,Solvents,LNC,133212-3,2.4027978052251213,LNC:133212-3
+737974,389.1,Sensorineural hearing loss,Solvent,SNOMEDCT_US,61010005,2.4027978052251213,SNOMEDCT_US:61010005
+737820,389.1,Sensorineural hearing loss,Solvents,LNC,15876-8,2.4027978052251213,LNC:15876-8
+737509,389.1,Sensorineural hearing loss,Meningitis in other infectious and parasitic diseases classified elsewhere,ICD10CM,G02,2.3023261174276533,ICD10CM:G02
+737507,389.1,Sensorineural hearing loss,"Bacterial meningitis, unspecified",ICD10CM,G00.9,2.3023261174276533,ICD10CM:G00.9
+737508,389.1,Sensorineural hearing loss,Meningitis in bacterial diseases classified elsewhere,ICD10CM,G01,2.3023261174276533,ICD10CM:G01
+737505,389.1,Sensorineural hearing loss,Staphylococcal meningitis,ICD10CM,G00.3,2.3023261174276533,ICD10CM:G00.3
+737515,389.1,Sensorineural hearing loss,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified",ICD10CM,G04.2,2.3023261174276533,ICD10CM:G04.2
+737514,389.1,Sensorineural hearing loss,"Meningitis, unspecified",ICD10CM,G03.9,2.3023261174276533,ICD10CM:G03.9
+737513,389.1,Sensorineural hearing loss,Benign recurrent meningitis [Mollaret],ICD10CM,G03.2,2.3023261174276533,ICD10CM:G03.2
+737512,389.1,Sensorineural hearing loss,Chronic meningitis,ICD10CM,G03.1,2.3023261174276533,ICD10CM:G03.1
+737511,389.1,Sensorineural hearing loss,Nonpyogenic meningitis,ICD10CM,G03.0,2.3023261174276533,ICD10CM:G03.0
+737510,389.1,Sensorineural hearing loss,Meningitis due to other and unspecified causes,ICD10CM,G03,2.3023261174276533,ICD10CM:G03
+737506,389.1,Sensorineural hearing loss,Other bacterial meningitis,ICD10CM,G00.8,2.3023261174276533,ICD10CM:G00.8
+737463,389.1,Sensorineural hearing loss,"Viral meningitis, unspecified",ICD10CM,A87.9,2.3023261174276533,ICD10CM:A87.9
+737504,389.1,Sensorineural hearing loss,Streptococcal meningitis,ICD10CM,G00.2,2.3023261174276533,ICD10CM:G00.2
+737503,389.1,Sensorineural hearing loss,Pneumococcal meningitis,ICD10CM,G00.1,2.3023261174276533,ICD10CM:G00.1
+737991,389.1,Sensorineural hearing loss,BM - Bacterial meningitis,SNOMEDCT_US,95883001,2.3023261174276533,SNOMEDCT_US:95883001
+737417,389.1,Sensorineural hearing loss,Salmonella meningitis,ICD10CM,A02.21,2.3023261174276533,ICD10CM:A02.21
+737418,389.1,Sensorineural hearing loss,Aseptic meningitis in leptospirosis,ICD10CM,A27.81,2.3023261174276533,ICD10CM:A27.81
+737424,389.1,Sensorineural hearing loss,Meningococcal meningitis,ICD10CM,A39.0,2.3023261174276533,ICD10CM:A39.0
+737931,389.1,Sensorineural hearing loss,Bacterial meningitis,SNOMEDCT_US,267680008,2.3023261174276533,SNOMEDCT_US:267680008
+737900,389.1,Sensorineural hearing loss,Bacterial meningitis NOS,SNOMEDCT_US,192662001,2.3023261174276533,SNOMEDCT_US:192662001
+737458,389.1,Sensorineural hearing loss,Viral meningitis,ICD10CM,A87,2.3023261174276533,ICD10CM:A87
+737459,389.1,Sensorineural hearing loss,Enteroviral meningitis,ICD10CM,A87.0,2.3023261174276533,ICD10CM:A87.0
+737460,389.1,Sensorineural hearing loss,Adenoviral meningitis,ICD10CM,A87.1,2.3023261174276533,ICD10CM:A87.1
+737461,389.1,Sensorineural hearing loss,Lymphocytic choriomeningitis,ICD10CM,A87.2,2.3023261174276533,ICD10CM:A87.2
+737462,389.1,Sensorineural hearing loss,Other viral meningitis,ICD10CM,A87.8,2.3023261174276533,ICD10CM:A87.8
+737878,389.1,Sensorineural hearing loss,Bacterial meningitis,SNOMEDCT_US,154984006,2.3023261174276533,SNOMEDCT_US:154984006
+737656,389.1,Sensorineural hearing loss,Meningococcal meningitis,ICD9CM,036.0,2.3023261174276533,ICD9CM:036.0
+737464,389.1,Sensorineural hearing loss,Herpesviral meningitis,ICD10CM,B00.3,2.3023261174276533,ICD10CM:B00.3
+737465,389.1,Sensorineural hearing loss,Zoster meningitis,ICD10CM,B02.1,2.3023261174276533,ICD10CM:B02.1
+737466,389.1,Sensorineural hearing loss,Mumps meningitis,ICD10CM,B26.1,2.3023261174276533,ICD10CM:B26.1
+737467,389.1,Sensorineural hearing loss,Candidal meningitis,ICD10CM,B37.5,2.3023261174276533,ICD10CM:B37.5
+737468,389.1,Sensorineural hearing loss,Coccidioidomycosis meningitis,ICD10CM,B38.4,2.3023261174276533,ICD10CM:B38.4
+737469,389.1,Sensorineural hearing loss,Cerebral cryptococcosis,ICD10CM,B45.1,2.3023261174276533,ICD10CM:B45.1
+737501,389.1,Sensorineural hearing loss,"Bacterial meningitis, not elsewhere classified",ICD10CM,G00,2.3023261174276533,ICD10CM:G00
+737502,389.1,Sensorineural hearing loss,Hemophilus meningitis,ICD10CM,G00.0,2.3023261174276533,ICD10CM:G00.0
+737653,389.1,Sensorineural hearing loss,Salmonella meningitis,ICD9CM,003.21,2.3023261174276533,ICD9CM:003.21
+737674,389.1,Sensorineural hearing loss,Mumps meningitis,ICD9CM,072.1,2.3023261174276533,ICD9CM:072.1
+737736,389.1,Sensorineural hearing loss,Bacterial meningitis NOS,ICD9CM,320.9,2.3023261174276533,ICD9CM:320.9
+737747,389.1,Sensorineural hearing loss,Meningitis NOS,ICD9CM,322.9,2.3023261174276533,ICD9CM:322.9
+737745,389.1,Sensorineural hearing loss,Eosinophilic meningitis,ICD9CM,322.1,2.3023261174276533,ICD9CM:322.1
+737744,389.1,Sensorineural hearing loss,Nonpyogenic meningitis,ICD9CM,322.0,2.3023261174276533,ICD9CM:322.0
+737743,389.1,Sensorineural hearing loss,Meningitis of unspecified cause,ICD9CM,322,2.3023261174276533,ICD9CM:322
+737742,389.1,Sensorineural hearing loss,Meningitis due to other nonbacterial organisms classified elsewhere,ICD9CM,321.8,2.3023261174276533,ICD9CM:321.8
+737741,389.1,Sensorineural hearing loss,Meningitis due to trypanosomiasis,ICD9CM,321.3,2.3023261174276533,ICD9CM:321.3
+737740,389.1,Sensorineural hearing loss,Meningitis due to viruses not elsewhere classified,ICD9CM,321.2,2.3023261174276533,ICD9CM:321.2
+737697,389.1,Sensorineural hearing loss,Leptospiral meningitis (aseptic),ICD9CM,100.81,2.3023261174276533,ICD9CM:100.81
+737739,389.1,Sensorineural hearing loss,Meningitis in other fungal diseases,ICD9CM,321.1,2.3023261174276533,ICD9CM:321.1
+737738,389.1,Sensorineural hearing loss,Cryptococcal meningitis,ICD9CM,321.0,2.3023261174276533,ICD9CM:321.0
+737726,389.1,Sensorineural hearing loss,Bacterial meningitis,ICD9CM,320,2.3023261174276533,ICD9CM:320
+737727,389.1,Sensorineural hearing loss,Hemophilus meningitis,ICD9CM,320.0,2.3023261174276533,ICD9CM:320.0
+737728,389.1,Sensorineural hearing loss,Pneumococcal meningitis,ICD9CM,320.1,2.3023261174276533,ICD9CM:320.1
+737729,389.1,Sensorineural hearing loss,Streptococcal meningitis,ICD9CM,320.2,2.3023261174276533,ICD9CM:320.2
+737737,389.1,Sensorineural hearing loss,Meningitis due to other organisms,ICD9CM,321,2.3023261174276533,ICD9CM:321
+737730,389.1,Sensorineural hearing loss,Staphylococcal meningitis,ICD9CM,320.3,2.3023261174276533,ICD9CM:320.3
+737735,389.1,Sensorineural hearing loss,Meningitis due to other specified bacteria,ICD9CM,320.89,2.3023261174276533,ICD9CM:320.89
+737731,389.1,Sensorineural hearing loss,Meningitis in other bacterial diseases classified elsewhere,ICD9CM,320.7,2.3023261174276533,ICD9CM:320.7
+737734,389.1,Sensorineural hearing loss,"Meningitis due to gram-negative bacteria, not elsewhere classified",ICD9CM,320.82,2.3023261174276533,ICD9CM:320.82
+737732,389.1,Sensorineural hearing loss,Meningitis due to other specified bacteria,ICD9CM,320.8,2.3023261174276533,ICD9CM:320.8
+737699,389.1,Sensorineural hearing loss,Coccidioidal meningitis,ICD9CM,114.2,2.3023261174276533,ICD9CM:114.2
+737698,389.1,Sensorineural hearing loss,Candidal meningitis,ICD9CM,112.83,2.3023261174276533,ICD9CM:112.83
+737746,389.1,Sensorineural hearing loss,Chronic meningitis,ICD9CM,322.2,2.3023261174276533,ICD9CM:322.2
+737673,389.1,Sensorineural hearing loss,Herpes simplex meningitis,ICD9CM,054.72,2.3023261174276533,ICD9CM:054.72
+737672,389.1,Sensorineural hearing loss,Herpes zoster with meningitis,ICD9CM,053.0,2.3023261174276533,ICD9CM:053.0
+737667,389.1,Sensorineural hearing loss,Meningitis due to ECHO virus,ICD9CM,047.1,2.3023261174276533,ICD9CM:047.1
+737671,389.1,Sensorineural hearing loss,Non-arthropod-borne meningitis due to adenovirus,ICD9CM,049.1,2.3023261174276533,ICD9CM:049.1
+737665,389.1,Sensorineural hearing loss,Meningitis due to enterovirus,ICD9CM,047,2.3023261174276533,ICD9CM:047
+737666,389.1,Sensorineural hearing loss,Meningitis due to coxsackie virus,ICD9CM,047.0,2.3023261174276533,ICD9CM:047.0
+737733,389.1,Sensorineural hearing loss,Anaerobic meningitis,ICD9CM,320.81,2.3023261174276533,ICD9CM:320.81
+737668,389.1,Sensorineural hearing loss,Other specified viral meningitis,ICD9CM,047.8,2.3023261174276533,ICD9CM:047.8
+737670,389.1,Sensorineural hearing loss,Non-arthropod-borne lymphocytic choriomeningitis,ICD9CM,049.0,2.3023261174276533,ICD9CM:049.0
+737669,389.1,Sensorineural hearing loss,Viral meningitis NOS,ICD9CM,047.9,2.3023261174276533,ICD9CM:047.9
+737975,389.1,Sensorineural hearing loss,Organ of Corti,SNOMEDCT_US,67788009,2.20095554974002,SNOMEDCT_US:67788009
+737887,389.1,Sensorineural hearing loss,Mixed conductive and sensorineural hearing loss,SNOMEDCT_US,155257009,2.119751446337693,SNOMEDCT_US:155257009
+737962,389.1,Sensorineural hearing loss,Sign language,SNOMEDCT_US,442389001,2.119751446337693,SNOMEDCT_US:442389001
+737919,389.1,Sensorineural hearing loss,Motor unit firing rate,SNOMEDCT_US,251545008,2.0203656560169154,SNOMEDCT_US:251545008
+737983,389.1,Sensorineural hearing loss,Occupational noise exposure,SNOMEDCT_US,78427001,1.9451881766053416,SNOMEDCT_US:78427001
+737837,389.1,Sensorineural hearing loss,TH,LNC,34221-9,1.939161552614588,LNC:34221-9
+737830,389.1,Sensorineural hearing loss,Phone,LNC,30129-3,1.870566308226268,LNC:30129-3
+737949,389.1,Sensorineural hearing loss,Telephone,SNOMEDCT_US,359993007,1.870566308226268,SNOMEDCT_US:359993007
+737829,389.1,Sensorineural hearing loss,Telephone,LNC,26664-5,1.870566308226268,LNC:26664-5
+737951,389.1,Sensorineural hearing loss,Tone of anal sphincter,SNOMEDCT_US,364158002,1.860750338621669,SNOMEDCT_US:364158002
+737917,389.1,Sensorineural hearing loss,Anal resistance,SNOMEDCT_US,249644009,1.860750338621669,SNOMEDCT_US:249644009
+737859,389.1,Sensorineural hearing loss,Inner hair cell,SNOMEDCT_US,11520008,1.824794914123272,SNOMEDCT_US:11520008
+737976,389.1,Sensorineural hearing loss,Central deafness,SNOMEDCT_US,68467004,1.824794914123272,SNOMEDCT_US:68467004
+737928,389.1,Sensorineural hearing loss,dB SPL,SNOMEDCT_US,259044001,1.824794914123272,SNOMEDCT_US:259044001
+737977,389.1,Sensorineural hearing loss,Tinnitus masker,SNOMEDCT_US,705314004,1.824794914123272,SNOMEDCT_US:705314004
+737986,389.1,Sensorineural hearing loss,Rinne test,SNOMEDCT_US,84636009,1.824794914123272,SNOMEDCT_US:84636009
+737848,389.1,Sensorineural hearing loss,Vibrations,LNC,MTHU021537,1.823673781243489,LNC:MTHU021537
+737850,389.1,Sensorineural hearing loss,Vibration,LNC,MTHU039716,1.823673781243489,LNC:MTHU039716
+737832,389.1,Sensorineural hearing loss,Vibration,LNC,120689-7,1.823673781243489,LNC:120689-7
+737939,389.1,Sensorineural hearing loss,Vibration,SNOMEDCT_US,280944001,1.823673781243489,SNOMEDCT_US:280944001
+737946,389.1,Sensorineural hearing loss,Vibration,SNOMEDCT_US,33679000,1.823673781243489,SNOMEDCT_US:33679000
+737706,389.1,Sensorineural hearing loss,Urogenital trichomoniasis,ICD9CM,131.0,1.7962378453257182,ICD9CM:131.0
+737442,389.1,Sensorineural hearing loss,Spotted fever due to Rickettsia conorii,ICD10CM,A77.1,1.7962378453257182,ICD10CM:A77.1
+737704,389.1,Sensorineural hearing loss,Toxoplasmosis NOS,ICD9CM,130.9,1.7962378453257182,ICD9CM:130.9
+737450,389.1,Sensorineural hearing loss,"Spotted fever, unspecified",ICD10CM,A77.9,1.7962378453257182,ICD10CM:A77.9
+737447,389.1,Sensorineural hearing loss,Ehrlichiosis chafeensis [E. chafeensis],ICD10CM,A77.41,1.7962378453257182,ICD10CM:A77.41
+737710,389.1,Sensorineural hearing loss,Trichomonal prostatitis,ICD9CM,131.03,1.7962378453257182,ICD9CM:131.03
+737709,389.1,Sensorineural hearing loss,Trichomonal urethritis,ICD9CM,131.02,1.7962378453257182,ICD9CM:131.02
+737440,389.1,Sensorineural hearing loss,Spotted fever [tick-borne rickettsioses],ICD10CM,A77,1.7962378453257182,ICD10CM:A77
+737700,389.1,Sensorineural hearing loss,Toxoplasmosis,ICD9CM,130,1.7962378453257182,ICD9CM:130
+737897,389.1,Sensorineural hearing loss,Infection by Toxoplasma gondii,SNOMEDCT_US,187192000,1.7962378453257182,SNOMEDCT_US:187192000
+737441,389.1,Sensorineural hearing loss,Spotted fever due to Rickettsia rickettsii,ICD10CM,A77.0,1.7962378453257182,ICD10CM:A77.0
+737446,389.1,Sensorineural hearing loss,"Ehrlichiosis, unspecified",ICD10CM,A77.40,1.7962378453257182,ICD10CM:A77.40
+737898,389.1,Sensorineural hearing loss,Toxoplasmosis NOS,SNOMEDCT_US,187200007,1.7962378453257182,SNOMEDCT_US:187200007
+737899,389.1,Sensorineural hearing loss,"[X]Toxoplasmosis, unspecified",SNOMEDCT_US,187515009,1.7962378453257182,SNOMEDCT_US:187515009
+737445,389.1,Sensorineural hearing loss,Ehrlichiosis,ICD10CM,A77.4,1.7962378453257182,ICD10CM:A77.4
+737702,389.1,Sensorineural hearing loss,Toxoplasmosis of other specified sites,ICD9CM,130.7,1.7962378453257182,ICD9CM:130.7
+737705,389.1,Sensorineural hearing loss,Trichomoniasis,ICD9CM,131,1.7962378453257182,ICD9CM:131
+737444,389.1,Sensorineural hearing loss,Spotted fever due to Rickettsia australis,ICD10CM,A77.3,1.7962378453257182,ICD10CM:A77.3
+737707,389.1,Sensorineural hearing loss,"Urogenital trichomoniasis, unspecified",ICD9CM,131.00,1.7962378453257182,ICD9CM:131.00
+737451,389.1,Sensorineural hearing loss,Other rickettsioses,ICD10CM,A79,1.7962378453257182,ICD10CM:A79
+737708,389.1,Sensorineural hearing loss,Trichomonal vulvovaginitis,ICD9CM,131.01,1.7962378453257182,ICD9CM:131.01
+737701,389.1,Sensorineural hearing loss,Toxoplasma hepatitis,ICD9CM,130.5,1.7962378453257182,ICD9CM:130.5
+737448,389.1,Sensorineural hearing loss,Other ehrlichiosis,ICD10CM,A77.49,1.7962378453257182,ICD10CM:A77.49
+737443,389.1,Sensorineural hearing loss,Spotted fever due to Rickettsia siberica,ICD10CM,A77.2,1.7962378453257182,ICD10CM:A77.2
+737449,389.1,Sensorineural hearing loss,Other spotted fevers,ICD10CM,A77.8,1.7962378453257182,ICD10CM:A77.8
+737717,389.1,Sensorineural hearing loss,Specific infections by free-living amebae,ICD9CM,136.2,1.7962378453257182,ICD9CM:136.2
+737929,389.1,Sensorineural hearing loss,Toxoplasmosis,SNOMEDCT_US,266225001,1.7962378453257182,SNOMEDCT_US:266225001
+737439,389.1,Sensorineural hearing loss,"Typhus fever, unspecified",ICD10CM,A75.9,1.7962378453257182,ICD10CM:A75.9
+737690,389.1,Sensorineural hearing loss,Other specified tick-borne rickettsioses,ICD9CM,082.8,1.7962378453257182,ICD9CM:082.8
+737426,389.1,Sensorineural hearing loss,Trichomoniasis,ICD10CM,A59,1.7962378453257182,ICD10CM:A59
+737689,389.1,Sensorineural hearing loss,Other ehrlichiosis,ICD9CM,082.49,1.7962378453257182,ICD9CM:082.49
+737688,389.1,Sensorineural hearing loss,Ehrlichiosis chafeensis [E. Chafeensis],ICD9CM,082.41,1.7962378453257182,ICD9CM:082.41
+737687,389.1,Sensorineural hearing loss,"Ehrlichiosis, unspecified",ICD9CM,082.40,1.7962378453257182,ICD9CM:082.40
+737686,389.1,Sensorineural hearing loss,Ehrlichiosis,ICD9CM,082.4,1.7962378453257182,ICD9CM:082.4
+737685,389.1,Sensorineural hearing loss,Queensland tick typhus,ICD9CM,082.3,1.7962378453257182,ICD9CM:082.3
+737684,389.1,Sensorineural hearing loss,North Asian tick fever,ICD9CM,082.2,1.7962378453257182,ICD9CM:082.2
+737683,389.1,Sensorineural hearing loss,Boutonneuse fever,ICD9CM,082.1,1.7962378453257182,ICD9CM:082.1
+737682,389.1,Sensorineural hearing loss,Spotted fevers,ICD9CM,082.0,1.7962378453257182,ICD9CM:082.0
+737681,389.1,Sensorineural hearing loss,Tick-borne rickettsioses,ICD9CM,082,1.7962378453257182,ICD9CM:082
+737680,389.1,Sensorineural hearing loss,Typhus NOS,ICD9CM,081.9,1.7962378453257182,ICD9CM:081.9
+737679,389.1,Sensorineural hearing loss,Scrub typhus,ICD9CM,081.2,1.7962378453257182,ICD9CM:081.2
+737678,389.1,Sensorineural hearing loss,Brill's disease,ICD9CM,081.1,1.7962378453257182,ICD9CM:081.1
+737989,389.1,Sensorineural hearing loss,Infection by Toxoplasma gondii,SNOMEDCT_US,9399000,1.7962378453257182,SNOMEDCT_US:9399000
+737677,389.1,Sensorineural hearing loss,Murine [endemic] typhus,ICD9CM,081.0,1.7962378453257182,ICD9CM:081.0
+737676,389.1,Sensorineural hearing loss,Other typhus,ICD9CM,081,1.7962378453257182,ICD9CM:081
+737427,389.1,Sensorineural hearing loss,Urogenital trichomoniasis,ICD10CM,A59.0,1.7962378453257182,ICD10CM:A59.0
+737428,389.1,Sensorineural hearing loss,"Urogenital trichomoniasis, unspecified",ICD10CM,A59.00,1.7962378453257182,ICD10CM:A59.00
+737429,389.1,Sensorineural hearing loss,Trichomonal vulvovaginitis,ICD10CM,A59.01,1.7962378453257182,ICD10CM:A59.01
+737694,389.1,Sensorineural hearing loss,Rickettsialpox,ICD9CM,083.2,1.7962378453257182,ICD9CM:083.2
+737696,389.1,Sensorineural hearing loss,Rickettsiosis NOS,ICD9CM,083.9,1.7962378453257182,ICD9CM:083.9
+737438,389.1,Sensorineural hearing loss,Typhus fever due to Rickettsia tsutsugamushi,ICD10CM,A75.3,1.7962378453257182,ICD10CM:A75.3
+737437,389.1,Sensorineural hearing loss,Typhus fever due to Rickettsia typhi,ICD10CM,A75.2,1.7962378453257182,ICD10CM:A75.2
+737436,389.1,Sensorineural hearing loss,Recrudescent typhus [Brill's disease],ICD10CM,A75.1,1.7962378453257182,ICD10CM:A75.1
+737435,389.1,Sensorineural hearing loss,Epidemic louse-borne typhus fever due to Rickettsia prowazekii,ICD10CM,A75.0,1.7962378453257182,ICD10CM:A75.0
+737936,389.1,Sensorineural hearing loss,Infection by Toxoplasma gondii,SNOMEDCT_US,276203008,1.7962378453257182,SNOMEDCT_US:276203008
+737695,389.1,Sensorineural hearing loss,Other specified rickettsioses,ICD9CM,083.8,1.7962378453257182,ICD9CM:083.8
+737434,389.1,Sensorineural hearing loss,"Trichomoniasis, unspecified",ICD10CM,A59.9,1.7962378453257182,ICD10CM:A59.9
+737430,389.1,Sensorineural hearing loss,Trichomonal prostatitis,ICD10CM,A59.02,1.7962378453257182,ICD10CM:A59.02
+737453,389.1,Sensorineural hearing loss,Rickettsialpox due to Rickettsia akari,ICD10CM,A79.1,1.7962378453257182,ICD10CM:A79.1
+737433,389.1,Sensorineural hearing loss,Trichomoniasis of other sites,ICD10CM,A59.8,1.7962378453257182,ICD10CM:A59.8
+737693,389.1,Sensorineural hearing loss,Trench fever,ICD9CM,083.1,1.7962378453257182,ICD9CM:083.1
+737692,389.1,Sensorineural hearing loss,Other rickettsioses,ICD9CM,083,1.7962378453257182,ICD9CM:083
+737432,389.1,Sensorineural hearing loss,Other urogenital trichomoniasis,ICD10CM,A59.09,1.7962378453257182,ICD10CM:A59.09
+737431,389.1,Sensorineural hearing loss,Trichomonal cystitis and urethritis,ICD10CM,A59.03,1.7962378453257182,ICD10CM:A59.03
+737691,389.1,Sensorineural hearing loss,"Tick-borne rickettsiosis, unspecified",ICD9CM,082.9,1.7962378453257182,ICD9CM:082.9
+737452,389.1,Sensorineural hearing loss,Trench fever,ICD10CM,A79.0,1.7962378453257182,ICD10CM:A79.0
+737703,389.1,Sensorineural hearing loss,Multisystemic disseminated toxoplasmosis,ICD9CM,130.8,1.7962378453257182,ICD9CM:130.8
+737454,389.1,Sensorineural hearing loss,Other specified rickettsioses,ICD10CM,A79.8,1.7962378453257182,ICD10CM:A79.8
+737455,389.1,Sensorineural hearing loss,Rickettsiosis due to Ehrlichia sennetsu,ICD10CM,A79.81,1.7962378453257182,ICD10CM:A79.81
+737478,389.1,Sensorineural hearing loss,Acanthamebiasis,ICD10CM,B60.1,1.7962378453257182,ICD10CM:B60.1
+737479,389.1,Sensorineural hearing loss,"Acanthamebiasis, unspecified",ICD10CM,B60.10,1.7962378453257182,ICD10CM:B60.10
+737480,389.1,Sensorineural hearing loss,Meningoencephalitis due to Acanthamoeba (culbertsoni),ICD10CM,B60.11,1.7962378453257182,ICD10CM:B60.11
+737481,389.1,Sensorineural hearing loss,Other acanthamebic disease,ICD10CM,B60.19,1.7962378453257182,ICD10CM:B60.19
+737482,389.1,Sensorineural hearing loss,Naegleriasis,ICD10CM,B60.2,1.7962378453257182,ICD10CM:B60.2
+737483,389.1,Sensorineural hearing loss,Other specified protozoal diseases,ICD10CM,B60.8,1.7962378453257182,ICD10CM:B60.8
+737484,389.1,Sensorineural hearing loss,Unspecified protozoal disease,ICD10CM,B64,1.7962378453257182,ICD10CM:B64
+737485,389.1,Sensorineural hearing loss,Internal hirudiniasis,ICD10CM,B83.4,1.7962378453257182,ICD10CM:B83.4
+737486,389.1,Sensorineural hearing loss,External hirudiniasis,ICD10CM,B88.3,1.7962378453257182,ICD10CM:B88.3
+737675,389.1,Sensorineural hearing loss,Louse-borne [epidemic] typhus,ICD9CM,080,1.7962378453257182,ICD9CM:080
+737487,389.1,Sensorineural hearing loss,Unspecified parasitic disease,ICD10CM,B89,1.7962378453257182,ICD10CM:B89
+737489,389.1,Sensorineural hearing loss,Sequelae of viral hepatitis,ICD10CM,B94.2,1.7962378453257182,ICD10CM:B94.2
+737476,389.1,Sensorineural hearing loss,Toxoplasmosis with other organ involvement,ICD10CM,B58.89,1.7962378453257182,ICD10CM:B58.89
+737490,389.1,Sensorineural hearing loss,Sequelae of other specified infectious and parasitic diseases,ICD10CM,B94.8,1.7962378453257182,ICD10CM:B94.8
+737491,389.1,Sensorineural hearing loss,Sequelae of unspecified infectious and parasitic disease,ICD10CM,B94.9,1.7962378453257182,ICD10CM:B94.9
+737818,389.1,Sensorineural hearing loss,Toxoplasmosis,LNC,10511-6,1.7962378453257182,LNC:10511-6
+737812,389.1,Sensorineural hearing loss,Other personal history of infectious and parasitic disease,ICD9CM,V12.09,1.7962378453257182,ICD9CM:V12.09
+737811,389.1,Sensorineural hearing loss,Personal history of unspecified infectious and parasitic disease,ICD9CM,V12.00,1.7962378453257182,ICD9CM:V12.00
+737810,389.1,Sensorineural hearing loss,Personal history of infectious and parasitic diseases,ICD9CM,V12.0,1.7962378453257182,ICD9CM:V12.0
+737498,389.1,Sensorineural hearing loss,Other and unspecified infectious diseases,ICD10CM,B99,1.7962378453257182,ICD10CM:B99
+737499,389.1,Sensorineural hearing loss,Other infectious disease,ICD10CM,B99.8,1.7962378453257182,ICD10CM:B99.8
+737500,389.1,Sensorineural hearing loss,Unspecified infectious disease,ICD10CM,B99.9,1.7962378453257182,ICD10CM:B99.9
+737644,389.1,Sensorineural hearing loss,Ainhum,ICD10CM,L94.6,1.7962378453257182,ICD10CM:L94.6
+737646,389.1,Sensorineural hearing loss,Personal history of other infectious and parasitic diseases,ICD10CM,Z86.19,1.7962378453257182,ICD10CM:Z86.19
+737477,389.1,Sensorineural hearing loss,"Toxoplasmosis, unspecified",ICD10CM,B58.9,1.7962378453257182,ICD10CM:B58.9
+737488,389.1,Sensorineural hearing loss,Sequelae of leprosy,ICD10CM,B92,1.7962378453257182,ICD10CM:B92
+737475,389.1,Sensorineural hearing loss,Toxoplasma tubulo-interstitial nephropathy,ICD10CM,B58.83,1.7962378453257182,ICD10CM:B58.83
+737723,389.1,Sensorineural hearing loss,Unspecified infectious and parasitic diseases,ICD9CM,136.9,1.7962378453257182,ICD9CM:136.9
+737457,389.1,Sensorineural hearing loss,"Rickettsiosis, unspecified",ICD10CM,A79.9,1.7962378453257182,ICD10CM:A79.9
+737712,389.1,Sensorineural hearing loss,Trichomoniasis of other specified sites,ICD9CM,131.8,1.7962378453257182,ICD9CM:131.8
+737713,389.1,Sensorineural hearing loss,Trichomoniasis NOS,ICD9CM,131.9,1.7962378453257182,ICD9CM:131.9
+737714,389.1,Sensorineural hearing loss,Hirudiniasis,ICD9CM,134.2,1.7962378453257182,ICD9CM:134.2
+737715,389.1,Sensorineural hearing loss,Other and unspecified infectious and parasitic diseases,ICD9CM,136,1.7962378453257182,ICD9CM:136
+737716,389.1,Sensorineural hearing loss,Ainhum,ICD9CM,136.0,1.7962378453257182,ICD9CM:136.0
+737474,389.1,Sensorineural hearing loss,Toxoplasma myositis,ICD10CM,B58.82,1.7962378453257182,ICD10CM:B58.82
+737718,389.1,Sensorineural hearing loss,Specific infection due to acanthamoeba,ICD9CM,136.21,1.7962378453257182,ICD9CM:136.21
+737719,389.1,Sensorineural hearing loss,Other specific infections by free-living amebae,ICD9CM,136.29,1.7962378453257182,ICD9CM:136.29
+737721,389.1,Sensorineural hearing loss,Sarcosporidiosis,ICD9CM,136.5,1.7962378453257182,ICD9CM:136.5
+737876,389.1,Sensorineural hearing loss,Toxoplasmosis,SNOMEDCT_US,154423006,1.7962378453257182,SNOMEDCT_US:154423006
+737722,389.1,Sensorineural hearing loss,Other specified infectious and parasitic diseases,ICD9CM,136.8,1.7962378453257182,ICD9CM:136.8
+737720,389.1,Sensorineural hearing loss,Psorospermiasis,ICD9CM,136.4,1.7962378453257182,ICD9CM:136.4
+737724,389.1,Sensorineural hearing loss,Late effects of other infectious and parasitic diseases,ICD9CM,139,1.7962378453257182,ICD9CM:139
+737725,389.1,Sensorineural hearing loss,Late effects of other and unspecified infectious and parasitic diseases,ICD9CM,139.8,1.7962378453257182,ICD9CM:139.8
+737470,389.1,Sensorineural hearing loss,Toxoplasmosis,ICD10CM,B58,1.7962378453257182,ICD10CM:B58
+737711,389.1,Sensorineural hearing loss,Other urogenital trichomoniasis,ICD9CM,131.09,1.7962378453257182,ICD9CM:131.09
+737473,389.1,Sensorineural hearing loss,Toxoplasma hepatitis,ICD10CM,B58.1,1.7962378453257182,ICD10CM:B58.1
+737456,389.1,Sensorineural hearing loss,Other specified rickettsioses,ICD10CM,A79.89,1.7962378453257182,ICD10CM:A79.89
+737472,389.1,Sensorineural hearing loss,"Toxoplasma oculopathy, unspecified",ICD10CM,B58.00,1.7962378453257182,ICD10CM:B58.00
+737471,389.1,Sensorineural hearing loss,Toxoplasma oculopathy,ICD10CM,B58.0,1.7962378453257182,ICD10CM:B58.0
+737926,389.1,Sensorineural hearing loss,Nightclub,SNOMEDCT_US,257647003,1.7393745349896033,SNOMEDCT_US:257647003
+737802,389.1,Sensorineural hearing loss,Rheumatic fever without mention of heart involvement **,ICD9CM,390.0,1.711645193593308,ICD9CM:390.0
+737654,389.1,Sensorineural hearing loss,Streptococcal sore throat and scarlet fever,ICD9CM,034,1.711645193593308,ICD9CM:034
+737804,389.1,Sensorineural hearing loss,Rheumatic chorea,ICD9CM,392,1.711645193593308,ICD9CM:392
+737803,389.1,Sensorineural hearing loss,Rheumatic fever with heart involvement,ICD9CM,391,1.711645193593308,ICD9CM:391
+737658,389.1,Sensorineural hearing loss,Unspecified Streptococcus infection in conditions classified elsewhere and of unspecified site,ICD9CM,041.00,1.711645193593308,ICD9CM:041.00
+737421,389.1,Sensorineural hearing loss,Scarlet fever with myocarditis,ICD10CM,A38.1,1.711645193593308,ICD10CM:A38.1
+737420,389.1,Sensorineural hearing loss,Scarlet fever with otitis media,ICD10CM,A38.0,1.711645193593308,ICD10CM:A38.0
+737664,389.1,Sensorineural hearing loss,Other Streptococcus infection in conditions classified elsewhere and of unspecified site,ICD9CM,041.09,1.711645193593308,ICD9CM:041.09
+737801,389.1,Sensorineural hearing loss,Rheumatic fever without mention of heart involvement,ICD9CM,390,1.711645193593308,ICD9CM:390
+737642,389.1,Sensorineural hearing loss,Rheumatic chorea without heart involvement,ICD10CM,I02.9,1.711645193593308,ICD10CM:I02.9
+737663,389.1,Sensorineural hearing loss,Group G Streptococcus infection in conditions classified elsewhere and of unspecified site,ICD9CM,041.05,1.711645193593308,ICD9CM:041.05
+737419,389.1,Sensorineural hearing loss,Scarlet fever,ICD10CM,A38,1.711645193593308,ICD10CM:A38
+737662,389.1,Sensorineural hearing loss,Group D Streptococcus [Enterococcus] infection in conditions classified elsewhere and of unspecified site,ICD9CM,041.04,1.711645193593308,ICD9CM:041.04
+737661,389.1,Sensorineural hearing loss,Group C Streptococcus infection in conditions classified elsewhere and of unspecified site,ICD9CM,041.03,1.711645193593308,ICD9CM:041.03
+737660,389.1,Sensorineural hearing loss,Group B Streptococcus infection in conditions classified elsewhere and of unspecified site,ICD9CM,041.02,1.711645193593308,ICD9CM:041.02
+737643,389.1,Sensorineural hearing loss,Acute bronchitis due to streptococcus,ICD10CM,J20.2,1.711645193593308,ICD10CM:J20.2
+737422,389.1,Sensorineural hearing loss,Scarlet fever with other complications,ICD10CM,A38.8,1.711645193593308,ICD10CM:A38.8
+737659,389.1,Sensorineural hearing loss,Group A Streptococcus infection in conditions classified elsewhere and of unspecified site,ICD9CM,041.01,1.711645193593308,ICD9CM:041.01
+737640,389.1,Sensorineural hearing loss,Rheumatic fever without heart involvement,ICD10CM,I00,1.711645193593308,ICD10CM:I00
+737641,389.1,Sensorineural hearing loss,Rheumatic chorea,ICD10CM,I02,1.711645193593308,ICD10CM:I02
+737805,389.1,Sensorineural hearing loss,Rheumatic chorea NOS,ICD9CM,392.9,1.711645193593308,ICD9CM:392.9
+737497,389.1,Sensorineural hearing loss,Unspecified streptococcus as the cause of diseases classified elsewhere,ICD10CM,B95.5,1.711645193593308,ICD10CM:B95.5
+737492,389.1,Sensorineural hearing loss,"Streptococcus, group A, as the cause of diseases classified elsewhere",ICD10CM,B95.0,1.711645193593308,ICD10CM:B95.0
+737494,389.1,Sensorineural hearing loss,Enterococcus as the cause of diseases classified elsewhere,ICD10CM,B95.2,1.711645193593308,ICD10CM:B95.2
+737875,389.1,Sensorineural hearing loss,Scarlet fever,SNOMEDCT_US,154303009,1.711645193593308,SNOMEDCT_US:154303009
+737941,389.1,Sensorineural hearing loss,Scarlatina,SNOMEDCT_US,30242009,1.711645193593308,SNOMEDCT_US:30242009
+737822,389.1,Sensorineural hearing loss,Scarlet fever,LNC,17017-7,1.711645193593308,LNC:17017-7
+737423,389.1,Sensorineural hearing loss,"Scarlet fever, NOS",ICD10CM,A38.9,1.711645193593308,ICD10CM:A38.9
+737493,389.1,Sensorineural hearing loss,"Streptococcus, group B, as the cause of diseases classified elsewhere",ICD10CM,B95.1,1.711645193593308,ICD10CM:B95.1
+737655,389.1,Sensorineural hearing loss,Scarlet fever,ICD9CM,034.1,1.711645193593308,ICD9CM:034.1
+737657,389.1,Sensorineural hearing loss,Streptococcus infection in conditions classified elsewhere and of unspecified site,ICD9CM,041.0,1.711645193593308,ICD9CM:041.0
+737495,389.1,Sensorineural hearing loss,Streptococcus pneumoniae as the cause of diseases classified elsewhere,ICD10CM,B95.3,1.711645193593308,ICD10CM:B95.3
+737496,389.1,Sensorineural hearing loss,Other streptococcus as the cause of diseases classified elsewhere,ICD10CM,B95.4,1.711645193593308,ICD10CM:B95.4
+737425,389.1,Sensorineural hearing loss,"Streptococcal infection, unspecified site",ICD10CM,A49.1,1.711645193593308,ICD10CM:A49.1
+737953,389.1,Sensorineural hearing loss,German measles vaccine,SNOMEDCT_US,386013003,1.6778634748232888,SNOMEDCT_US:386013003
+737955,389.1,Sensorineural hearing loss,German measles vaccine,SNOMEDCT_US,396438003,1.6778634748232888,SNOMEDCT_US:396438003
+737854,389.1,Sensorineural hearing loss,Rubella virus vaccine,RXNORM,9486,1.6778634748232888,RXNORM:9486
+737968,389.1,Sensorineural hearing loss,German measles virus vaccine,SNOMEDCT_US,5524008,1.6778634748232888,SNOMEDCT_US:5524008
+737963,389.1,Sensorineural hearing loss,Auditory neuropathy spectrum disorder,SNOMEDCT_US,443805006,1.6731173414424183,SNOMEDCT_US:443805006
+737835,389.1,Sensorineural hearing loss,Styrene,LNC,17768-0,1.6731173414424183,LNC:17768-0
+737985,389.1,Sensorineural hearing loss,Ethenylbenzene,SNOMEDCT_US,84181009,1.6731173414424183,SNOMEDCT_US:84181009
+737845,389.1,Sensorineural hearing loss,Styrene,LNC,MTHU014113,1.6731173414424183,LNC:MTHU014113
+737853,389.1,Sensorineural hearing loss,Styrene,RXNORM,1362878,1.6731173414424183,RXNORM:1362878
+737950,389.1,Sensorineural hearing loss,Structure of tectorial membrane,SNOMEDCT_US,36205006,1.6189812725075332,SNOMEDCT_US:36205006
+737841,389.1,Sensorineural hearing loss,Slope,LNC,73366-4,1.594790910229706,LNC:73366-4
+737844,389.1,Sensorineural hearing loss,Slope,LNC,MTHU009095,1.594790910229706,LNC:MTHU009095
+737918,389.1,Sensorineural hearing loss,Frequency selectivity,SNOMEDCT_US,250897004,1.5732098784045374,SNOMEDCT_US:250897004

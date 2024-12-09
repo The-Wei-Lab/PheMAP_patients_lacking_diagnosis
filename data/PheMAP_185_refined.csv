@@ -1,0 +1,441 @@
+index,PHECODE,PHENOTYPE,STR,SAB,CODE,TFIDF,voca_concept
+233320,185.0,Cancer of prostate,Carcinoma in situ of prostate,ICD10CM,D07.5,56.00939061240923,ICD10CM:D07.5
+233797,185.0,Cancer of prostate,Malignant neoplasm of prostate,SNOMEDCT_US,93974005,56.00939061240923,SNOMEDCT_US:93974005
+233461,185.0,Cancer of prostate,Personal history of malignant neoplasm of prostate,ICD10CM,Z85.46,56.00939061240923,ICD10CM:Z85.46
+233463,185.0,Cancer of prostate,Malign neopl prostate,ICD9CM,185,56.00939061240923,ICD9CM:185
+233730,185.0,Cancer of prostate,CA - Cancer of prostate,SNOMEDCT_US,363448003,56.00939061240923,SNOMEDCT_US:363448003
+233315,185.0,Cancer of prostate,Malignant neoplasm of prostate,ICD10CM,C61,56.00939061240923,ICD10CM:C61
+233749,185.0,Cancer of prostate,CA - Cancer of prostate,SNOMEDCT_US,399068003,56.00939061240923,SNOMEDCT_US:399068003
+233466,185.0,Cancer of prostate,Carcinoma in situ of prostate,ICD9CM,233.4,56.00939061240923,ICD9CM:233.4
+233530,185.0,Cancer of prostate,Prostate cancer,LNC,15688-7,56.00939061240923,LNC:15688-7
+233520,185.0,Cancer of prostate,Personal history of malignant neoplasm of prostate,ICD9CM,V10.46,56.00939061240923,ICD9CM:V10.46
+233582,185.0,Cancer of prostate,Prostate,LNC,7501-2,23.63020701321283,LNC:7501-2
+233756,185.0,Cancer of prostate,Prostate,SNOMEDCT_US,41216001,23.63020701321283,SNOMEDCT_US:41216001
+233593,185.0,Cancer of prostate,Prostate,LNC,MTHU004957,23.63020701321283,LNC:MTHU004957
+233551,185.0,Cancer of prostate,Prostate,LNC,200001-8,23.63020701321283,LNC:200001-8
+233693,185.0,Cancer of prostate,Prostatic,SNOMEDCT_US,263847000,23.63020701321283,SNOMEDCT_US:263847000
+233709,185.0,Cancer of prostate,Prostatic gland structure,SNOMEDCT_US,279689003,23.63020701321283,SNOMEDCT_US:279689003
+233666,185.0,Cancer of prostate,PSA - Serum prostate specific antigen level,SNOMEDCT_US,166158002,18.329108612777794,SNOMEDCT_US:166158002
+233314,185.0,Cancer of prostate,PSA (prostate specific antigen) measurement,CPT,84154,18.329108612777794,CPT:84154
+233706,185.0,Cancer of prostate,Prostate-specific antigen level,SNOMEDCT_US,273968004,18.329108612777794,SNOMEDCT_US:273968004
+233313,185.0,Cancer of prostate,ASSAY OF PROSTATE SPECIFIC ANTIGEN TOTAL,CPT,84153,18.329108612777794,CPT:84153
+233312,185.0,Cancer of prostate,PSA (prostate specific antigen) measurement,CPT,84152,18.329108612777794,CPT:84152
+233773,185.0,Cancer of prostate,PSA - Prostate-specific antigen level,SNOMEDCT_US,63476009,18.329108612777794,SNOMEDCT_US:63476009
+233691,185.0,Cancer of prostate,CA - Carcinoma of prostate,SNOMEDCT_US,254900004,12.810548666270789,SNOMEDCT_US:254900004
+233653,185.0,Cancer of prostate,Carcinoma of prostate,SNOMEDCT_US,154531004,12.810548666270789,SNOMEDCT_US:154531004
+233739,185.0,Cancer of prostate,Gleason grading of prostate cancer,SNOMEDCT_US,392991003,10.923462847810669,SNOMEDCT_US:392991003
+233617,185.0,Cancer of prostate,Gleason grading for prostatic cancer,SNOMEDCT_US,106241006,10.923462847810669,SNOMEDCT_US:106241006
+233744,185.0,Cancer of prostate,Gleason grading of prostate cancer,SNOMEDCT_US,394930000,10.923462847810669,SNOMEDCT_US:394930000
+233741,185.0,Cancer of prostate,Gleason grading of prostate cancer,SNOMEDCT_US,393947006,10.923462847810669,SNOMEDCT_US:393947006
+233599,185.0,Cancer of prostate,Prostate cancer risk,LNC,MTHU025717,9.65477302489026,LNC:MTHU025717
+233578,185.0,Cancer of prostate,Prostate cancer risk,LNC,62863-3,9.65477302489026,LNC:62863-3
+233647,185.0,Cancer of prostate,Radical prostatectomy,SNOMEDCT_US,149714000,7.732579247832417,SNOMEDCT_US:149714000
+233478,185.0,Cancer of prostate,Radical prostatectomy,ICD9CM,60.5,7.732579247832417,ICD9CM:60.5
+233692,185.0,Cancer of prostate,Prostatovesiculectomy,SNOMEDCT_US,26294005,7.732579247832417,SNOMEDCT_US:26294005
+233783,185.0,Cancer of prostate,Androgen deprivation therapy,SNOMEDCT_US,707266006,5.928955127253259,SNOMEDCT_US:707266006
+233527,185.0,Cancer of prostate,Other cancer,LNC,14284-6,5.595172475503155,LNC:14284-6
+233794,185.0,Cancer of prostate,DRE - Digital rectal examination,SNOMEDCT_US,89563001,5.248689162845652,SNOMEDCT_US:89563001
+233753,185.0,Cancer of prostate,DRE - Digital rectal examination,SNOMEDCT_US,410006001,5.248689162845652,SNOMEDCT_US:410006001
+233519,185.0,Cancer of prostate,Digital examination of rectum,ICD9CM,89.34,5.248689162845652,ICD9CM:89.34
+233529,185.0,Cancer of prostate,DRE,LNC,15400-7,5.248689162845652,LNC:15400-7
+233707,185.0,Cancer of prostate,DRE - Digital rectal examination,SNOMEDCT_US,274806008,5.248689162845652,SNOMEDCT_US:274806008
+233687,185.0,Cancer of prostate,Hormone therapy,SNOMEDCT_US,243122007,5.245008453336068,SNOMEDCT_US:243122007
+233668,185.0,Cancer of prostate,Endocrine therapy,SNOMEDCT_US,169413002,5.245008453336068,SNOMEDCT_US:169413002
+233642,185.0,Cancer of prostate,Hormone therapy,SNOMEDCT_US,146639002,5.245008453336068,SNOMEDCT_US:146639002
+233531,185.0,Cancer of prostate,Hormonal therapy/,LNC,16052-5,5.245008453336068,LNC:16052-5
+233718,185.0,Cancer of prostate,Endocrine therapy,SNOMEDCT_US,309542002,5.245008453336068,SNOMEDCT_US:309542002
+233595,185.0,Cancer of prostate,Malignant cells,LNC,MTHU015734,4.617189844635732,LNC:MTHU015734
+233572,185.0,Cancer of prostate,Malignant cells,LNC,31549-6,4.617189844635732,LNC:31549-6
+233793,185.0,Cancer of prostate,Malignant tumor cells,SNOMEDCT_US,88400008,4.617189844635732,SNOMEDCT_US:88400008
+233306,185.0,Cancer of prostate,"Biopsy, prostate",CPT,1008650,4.601577113689096,CPT:1008650
+233776,185.0,Cancer of prostate,Biopsy of prostate,SNOMEDCT_US,65575008,4.601577113689096,SNOMEDCT_US:65575008
+233596,185.0,Cancer of prostate,Gleason score,LNC,MTHU016394,4.445595345039226,LNC:MTHU016394
+233574,185.0,Cancer of prostate,Gleason score,LNC,33134-5,4.445595345039226,LNC:33134-5
+233733,185.0,Cancer of prostate,Gleason grade score,SNOMEDCT_US,372278000,4.445595345039226,SNOMEDCT_US:372278000
+233771,185.0,Cancer of prostate,Benign prostatic hyperplasia,SNOMEDCT_US,61059009,4.402625421339326,SNOMEDCT_US:61059009
+233585,185.0,Cancer of prostate,benign prostatic hyperplasia,LNC,90121-2,4.402625421339326,LNC:90121-2
+233732,185.0,Cancer of prostate,"Benign prostatic hyperplasia, NOS",SNOMEDCT_US,367483003,4.402625421339326,SNOMEDCT_US:367483003
+233750,185.0,Cancer of prostate,Brachytherapy,SNOMEDCT_US,399315003,4.186005046074762,SNOMEDCT_US:399315003
+233640,185.0,Cancer of prostate,Brachytherapy,SNOMEDCT_US,14500008,4.186005046074762,SNOMEDCT_US:14500008
+233652,185.0,Cancer of prostate,Brachytherapy,SNOMEDCT_US,152198000,4.186005046074762,SNOMEDCT_US:152198000
+233734,185.0,Cancer of prostate,Brachytherapy,SNOMEDCT_US,384692006,4.186005046074762,SNOMEDCT_US:384692006
+233777,185.0,Cancer of prostate,Brachytherapy procedure,SNOMEDCT_US,6558006,4.186005046074762,SNOMEDCT_US:6558006
+233720,185.0,Cancer of prostate,Brachytherapy - action,SNOMEDCT_US,313029009,4.186005046074762,SNOMEDCT_US:313029009
+233470,185.0,Cancer of prostate,Kyphoscoliotic heart disease,ICD9CM,416.1,3.7054335588959386,ICD9CM:416.1
+233473,185.0,Cancer of prostate,"Chronic pulmonary heart disease, unspecified",ICD9CM,416.9,3.7054335588959386,ICD9CM:416.9
+233472,185.0,Cancer of prostate,Other chronic pulmonary heart diseases,ICD9CM,416.8,3.7054335588959386,ICD9CM:416.8
+233325,185.0,Cancer of prostate,Idiopathic pulmonary arterial hypertension,ICD10CM,I27.0,3.7054335588959386,ICD10CM:I27.0
+233326,185.0,Cancer of prostate,Kyphoscoliotic heart disease,ICD10CM,I27.1,3.7054335588959386,ICD10CM:I27.1
+233471,185.0,Cancer of prostate,Chronic pulmonary embolism (ADDED),ICD9CM,416.2,3.7054335588959386,ICD9CM:416.2
+233331,185.0,Cancer of prostate,Pulmonary hypertension due to lung diseases and hypoxia,ICD10CM,I27.23,3.7054335588959386,ICD10CM:I27.23
+233543,185.0,Cancer of prostate,Pulmonary hypertension,LNC,128702-0,3.7054335588959386,LNC:128702-0
+233327,185.0,Cancer of prostate,Other secondary pulmonary hypertension,ICD10CM,I27.2,3.7054335588959386,ICD10CM:I27.2
+233656,185.0,Cancer of prostate,Pulmonary hypertension,SNOMEDCT_US,155328008,3.7054335588959386,SNOMEDCT_US:155328008
+233337,185.0,Cancer of prostate,"Pulmonary heart disease, unspecified",ICD10CM,I27.9,3.7054335588959386,ICD10CM:I27.9
+233468,185.0,Cancer of prostate,Chronic pulmonary heart disease,ICD9CM,416,3.7054335588959386,ICD9CM:416
+233336,185.0,Cancer of prostate,Other specified pulmonary heart diseases,ICD10CM,I27.89,3.7054335588959386,ICD10CM:I27.89
+233335,185.0,Cancer of prostate,Chronic pulmonary embolism,ICD10CM,I27.82,3.7054335588959386,ICD10CM:I27.82
+233469,185.0,Cancer of prostate,Primary pulmonary hypertension,ICD9CM,416.0,3.7054335588959386,ICD9CM:416.0
+233334,185.0,Cancer of prostate,Cor pulmonale (chronic),ICD10CM,I27.81,3.7054335588959386,ICD10CM:I27.81
+233604,185.0,Cancer of prostate,Pulmonary hypertension,LNC,MTHU040643,3.7054335588959386,LNC:MTHU040643
+233785,185.0,Cancer of prostate,PHT - Pulmonary hypertension,SNOMEDCT_US,70995007,3.7054335588959386,SNOMEDCT_US:70995007
+233333,185.0,Cancer of prostate,Other secondary pulmonary hypertension,ICD10CM,I27.29,3.7054335588959386,ICD10CM:I27.29
+233332,185.0,Cancer of prostate,Chronic thromboembolic pulmonary hypertension,ICD10CM,I27.24,3.7054335588959386,ICD10CM:I27.24
+233330,185.0,Cancer of prostate,Pulmonary hypertension due to left heart disease,ICD10CM,I27.22,3.7054335588959386,ICD10CM:I27.22
+233329,185.0,Cancer of prostate,Secondary pulmonary arterial hypertension,ICD10CM,I27.21,3.7054335588959386,ICD10CM:I27.21
+233328,185.0,Cancer of prostate,Pulmonary hypertension NOS,ICD10CM,I27.20,3.7054335588959386,ICD10CM:I27.20
+233695,185.0,Cancer of prostate,Pulmonary hypertension,SNOMEDCT_US,266293003,3.7054335588959386,SNOMEDCT_US:266293003
+233759,185.0,Cancer of prostate,Castrate-resistant prostate cancer,SNOMEDCT_US,427492003,3.675637778990134,SNOMEDCT_US:427492003
+233722,185.0,Cancer of prostate,Cancer of the prostate with metastasis,SNOMEDCT_US,314994000,3.622280882551917,SNOMEDCT_US:314994000
+233725,185.0,Cancer of prostate,Man,SNOMEDCT_US,339947000,3.518143276997596,SNOMEDCT_US:339947000
+233616,185.0,Cancer of prostate,Patient observation,SNOMEDCT_US,103705002,3.365623195003724,SNOMEDCT_US:103705002
+233561,185.0,Cancer of prostate,Radiotherapy,LNC,222065-7,3.2711102492237325,LNC:222065-7
+233772,185.0,Cancer of prostate,Radiation therapy,SNOMEDCT_US,61757002,3.2711102492237325,SNOMEDCT_US:61757002
+233523,185.0,Cancer of prostate,Radiotherapy encounter,ICD9CM,V58.0,3.2711102492237325,ICD9CM:V58.0
+233524,185.0,Cancer of prostate,Convalescence following radiotherapy,ICD9CM,V66.1,3.2711102492237325,ICD9CM:V66.1
+233525,185.0,Cancer of prostate,Follow-up examination following radiotherapy,ICD9CM,V67.1,3.2711102492237325,ICD9CM:V67.1
+233767,185.0,Cancer of prostate,Radiation therapy procedure or service,SNOMEDCT_US,53438000,3.2711102492237325,SNOMEDCT_US:53438000
+233535,185.0,Cancer of prostate,Radiotherapy,LNC,26009-3,3.2711102492237325,LNC:26009-3
+233538,185.0,Cancer of prostate,Radiation,LNC,4351-8,3.2711102492237325,LNC:4351-8
+233619,185.0,Cancer of prostate,RT - Radiotherapy,SNOMEDCT_US,108290001,3.2711102492237325,SNOMEDCT_US:108290001
+233649,185.0,Cancer of prostate,Radiation therapy,SNOMEDCT_US,150903009,3.2711102492237325,SNOMEDCT_US:150903009
+233673,185.0,Cancer of prostate,Radiation therapy,SNOMEDCT_US,182666000,3.2711102492237325,SNOMEDCT_US:182666000
+233716,185.0,Cancer of prostate,Radiotherapy,SNOMEDCT_US,302505005,3.2711102492237325,SNOMEDCT_US:302505005
+233462,185.0,Cancer of prostate,Radiation Therapy (Procedure),ICD10PCS,D,3.2711102492237325,ICD10PCS:D
+233553,185.0,Cancer of prostate,Radiation treatment,LNC,200051-3,3.2711102492237325,LNC:200051-3
+233308,185.0,Cancer of prostate,Radiation Oncology Treatment,CPT,1010843,3.2711102492237325,CPT:1010843
+233608,185.0,Cancer of prostate,Testosterone,RXNORM,10379,3.242023714011527,RXNORM:10379
+233591,185.0,Cancer of prostate,Testosterone,LNC,MTHU002002,3.242023714011527,LNC:MTHU002002
+233620,185.0,Cancer of prostate,Product containing testosterone,SNOMEDCT_US,109033004,3.242023714011527,SNOMEDCT_US:109033004
+233544,185.0,Cancer of prostate,Testosterone,LNC,14045-6,3.242023714011527,LNC:14045-6
+233761,185.0,Cancer of prostate,Testosterone,SNOMEDCT_US,43688007,3.242023714011527,SNOMEDCT_US:43688007
+233552,185.0,Cancer of prostate,Biopsy,LNC,200041-4,2.718303049269478,LNC:200041-4
+233626,185.0,Cancer of prostate,BX - Biopsy,SNOMEDCT_US,129314006,2.718303049269478,SNOMEDCT_US:129314006
+233792,185.0,Cancer of prostate,Biopsy,SNOMEDCT_US,86273004,2.718303049269478,SNOMEDCT_US:86273004
+233528,185.0,Cancer of prostate,Biopsy,LNC,15393-4,2.718303049269478,LNC:15393-4
+233579,185.0,Cancer of prostate,Biopsy,LNC,68311-7,2.718303049269478,LNC:68311-7
+233600,185.0,Cancer of prostate,Biopsy,LNC,MTHU028106,2.718303049269478,LNC:MTHU028106
+233556,185.0,Cancer of prostate,Biopsy,LNC,20669-5,2.718303049269478,LNC:20669-5
+233536,185.0,Cancer of prostate,"Biopsy, nos",LNC,3911-0,2.718303049269478,LNC:3911-0
+233602,185.0,Cancer of prostate,Cancer treatment,LNC,MTHU038130,2.434939801073808,LNC:MTHU038130
+233541,185.0,Cancer of prostate,Cancer treatment,LNC,114959-2,2.434939801073808,LNC:114959-2
+233565,185.0,Cancer of prostate,Seminal vesicle,LNC,251109-7,2.233260830650909,LNC:251109-7
+233564,185.0,Cancer of prostate,Seminal vesicle,LNC,251026-3,2.233260830650909,LNC:251026-3
+233562,185.0,Cancer of prostate,Seminal vesicles,LNC,222098-8,2.233260830650909,LNC:222098-8
+233606,185.0,Cancer of prostate,Seminal vesicles,LNC,MTHU055418,2.233260830650909,LNC:MTHU055418
+233774,185.0,Cancer of prostate,Seminal vesicle,SNOMEDCT_US,64739004,2.233260830650909,SNOMEDCT_US:64739004
+233571,185.0,Cancer of prostate,Urethra,LNC,30364-1,2.1034327339235617,LNC:30364-1
+233632,185.0,Cancer of prostate,Urethra,SNOMEDCT_US,13648007,2.1034327339235617,SNOMEDCT_US:13648007
+233539,185.0,Cancer of prostate,Urethral,LNC,9458-6,2.1034327339235617,LNC:9458-6
+233557,185.0,Cancer of prostate,Pelvis>Urethra,LNC,206733-0,2.1034327339235617,LNC:206733-0
+233555,185.0,Cancer of prostate,Urethra,LNC,206638-1,2.1034327339235617,LNC:206638-1
+233694,185.0,Cancer of prostate,Urethral,SNOMEDCT_US,264255005,2.1034327339235617,SNOMEDCT_US:264255005
+233586,185.0,Cancer of prostate,Urethra,LNC,MTHU001321,2.1034327339235617,LNC:MTHU001321
+233605,185.0,Cancer of prostate,Pelvis>Urethra,LNC,MTHU052659,2.1034327339235617,LNC:MTHU052659
+233779,185.0,Cancer of prostate,Idiopathic pulmonary arterial hypertension,SNOMEDCT_US,697898008,2.0817591680223044,SNOMEDCT_US:697898008
+233545,185.0,Cancer of prostate,Semen,LNC,14755-0,2.0556873022346256,LNC:14755-0
+233584,185.0,Cancer of prostate,Semen,LNC,7589-7,2.0556873022346256,LNC:7589-7
+233590,185.0,Cancer of prostate,Semen,LNC,MTHU001953,2.0556873022346256,LNC:MTHU001953
+233406,185.0,Cancer of prostate,Family history of leukemia,ICD10CM,Z80.6,2.0322721577322174,ICD10CM:Z80.6
+233407,185.0,Cancer of prostate,"Family history of other malignant neoplasms of lymphoid, hematopoietic and related tissues",ICD10CM,Z80.7,2.0322721577322174,ICD10CM:Z80.7
+233408,185.0,Cancer of prostate,Family history of malignant neoplasm of other organs or systems,ICD10CM,Z80.8,2.0322721577322174,ICD10CM:Z80.8
+233409,185.0,Cancer of prostate,"Family history of malignant neoplasm, unspecified",ICD10CM,Z80.9,2.0322721577322174,ICD10CM:Z80.9
+233757,185.0,Cancer of prostate,Family history of prostate cancer,SNOMEDCT_US,414205003,2.0322721577322174,SNOMEDCT_US:414205003
+233431,185.0,Cancer of prostate,Family history of polycystic kidney,ICD10CM,Z82.71,2.0322721577322174,ICD10CM:Z82.71
+233392,185.0,Cancer of prostate,Family history of primary malignant neoplasm,ICD10CM,Z80,2.0322721577322174,ICD10CM:Z80
+233400,185.0,Cancer of prostate,Family history of malignant neoplasm of testis,ICD10CM,Z80.43,2.0322721577322174,ICD10CM:Z80.43
+233395,185.0,Cancer of prostate,Family history of malignant neoplasm of other respiratory and intrathoracic organs,ICD10CM,Z80.2,2.0322721577322174,ICD10CM:Z80.2
+233396,185.0,Cancer of prostate,Family history of malignant neoplasm of breast,ICD10CM,Z80.3,2.0322721577322174,ICD10CM:Z80.3
+233394,185.0,Cancer of prostate,"Family history of malignant neoplasm of trachea, bronchus and lung",ICD10CM,Z80.1,2.0322721577322174,ICD10CM:Z80.1
+233397,185.0,Cancer of prostate,Family history of malignant neoplasm of genital organs,ICD10CM,Z80.4,2.0322721577322174,ICD10CM:Z80.4
+233398,185.0,Cancer of prostate,Family history of malignant neoplasm of ovary,ICD10CM,Z80.41,2.0322721577322174,ICD10CM:Z80.41
+233399,185.0,Cancer of prostate,Family history of malignant neoplasm of prostate,ICD10CM,Z80.42,2.0322721577322174,ICD10CM:Z80.42
+233401,185.0,Cancer of prostate,Family history of malignant neoplasm of other genital organs,ICD10CM,Z80.49,2.0322721577322174,ICD10CM:Z80.49
+233410,185.0,Cancer of prostate,Family history of mental and behavioral disorders,ICD10CM,Z81,2.0322721577322174,ICD10CM:Z81
+233402,185.0,Cancer of prostate,Family history of malignant neoplasm of urinary tract,ICD10CM,Z80.5,2.0322721577322174,ICD10CM:Z80.5
+233403,185.0,Cancer of prostate,Family history of malignant neoplasm of kidney,ICD10CM,Z80.51,2.0322721577322174,ICD10CM:Z80.51
+233522,185.0,Cancer of prostate,Family history of colonic polyps,ICD9CM,V18.51,2.0322721577322174,ICD9CM:V18.51
+233521,185.0,Cancer of prostate,Family history of malignant neoplasm of prostate,ICD9CM,V16.42,2.0322721577322174,ICD9CM:V16.42
+233404,185.0,Cancer of prostate,Family history of malignant neoplasm of bladder,ICD10CM,Z80.52,2.0322721577322174,ICD10CM:Z80.52
+233405,185.0,Cancer of prostate,Family history of malignant neoplasm of other urinary tract organ,ICD10CM,Z80.59,2.0322721577322174,ICD10CM:Z80.59
+233393,185.0,Cancer of prostate,Family history of malignant neoplasm of digestive organs,ICD10CM,Z80.0,2.0322721577322174,ICD10CM:Z80.0
+233412,185.0,Cancer of prostate,Family history of alcohol abuse and dependence,ICD10CM,Z81.1,2.0322721577322174,ICD10CM:Z81.1
+233411,185.0,Cancer of prostate,Family history of intellectual disabilities,ICD10CM,Z81.0,2.0322721577322174,ICD10CM:Z81.0
+233413,185.0,Cancer of prostate,Family history of tobacco abuse and dependence,ICD10CM,Z81.2,2.0322721577322174,ICD10CM:Z81.2
+233455,185.0,Cancer of prostate,Family history of other diseases of the genitourinary system,ICD10CM,Z84.2,2.0322721577322174,ICD10CM:Z84.2
+233454,185.0,Cancer of prostate,Family history of disorders of kidney and ureter,ICD10CM,Z84.1,2.0322721577322174,ICD10CM:Z84.1
+233453,185.0,Cancer of prostate,Family history of diseases of the skin and subcutaneous tissue,ICD10CM,Z84.0,2.0322721577322174,ICD10CM:Z84.0
+233452,185.0,Cancer of prostate,Family history of other conditions,ICD10CM,Z84,2.0322721577322174,ICD10CM:Z84
+233451,185.0,Cancer of prostate,Family history of other diseases of the digestive system,ICD10CM,Z83.79,2.0322721577322174,ICD10CM:Z83.79
+233450,185.0,Cancer of prostate,Family history of colonic polyps,ICD10CM,Z83.71,2.0322721577322174,ICD10CM:Z83.71
+233449,185.0,Cancer of prostate,Family history of diseases of the digestive system,ICD10CM,Z83.7,2.0322721577322174,ICD10CM:Z83.7
+233448,185.0,Cancer of prostate,Family history of other diseases of the respiratory system,ICD10CM,Z83.6,2.0322721577322174,ICD10CM:Z83.6
+233447,185.0,Cancer of prostate,Family history of ear disorders,ICD10CM,Z83.52,2.0322721577322174,ICD10CM:Z83.52
+233446,185.0,Cancer of prostate,Family history of other specified eye disorder,ICD10CM,Z83.518,2.0322721577322174,ICD10CM:Z83.518
+233445,185.0,Cancer of prostate,Family history of glaucoma,ICD10CM,Z83.511,2.0322721577322174,ICD10CM:Z83.511
+233444,185.0,Cancer of prostate,Family history of eye disorders,ICD10CM,Z83.51,2.0322721577322174,ICD10CM:Z83.51
+233443,185.0,Cancer of prostate,Family history of eye and ear disorders,ICD10CM,Z83.5,2.0322721577322174,ICD10CM:Z83.5
+233442,185.0,Cancer of prostate,"Family history of other endocrine, nutritional and metabolic diseases",ICD10CM,Z83.49,2.0322721577322174,ICD10CM:Z83.49
+233441,185.0,Cancer of prostate,Family history of familial hypercholesterolemia,ICD10CM,Z83.42,2.0322721577322174,ICD10CM:Z83.42
+233440,185.0,Cancer of prostate,Family history of multiple endocrine neoplasia [MEN] syndrome,ICD10CM,Z83.41,2.0322721577322174,ICD10CM:Z83.41
+233439,185.0,Cancer of prostate,"Family history of other endocrine, nutritional and metabolic diseases",ICD10CM,Z83.4,2.0322721577322174,ICD10CM:Z83.4
+233438,185.0,Cancer of prostate,Family history of diabetes mellitus,ICD10CM,Z83.3,2.0322721577322174,ICD10CM:Z83.3
+233437,185.0,Cancer of prostate,Family history of diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,ICD10CM,Z83.2,2.0322721577322174,ICD10CM:Z83.2
+233436,185.0,Cancer of prostate,Family history of other infectious and parasitic diseases,ICD10CM,Z83.1,2.0322721577322174,ICD10CM:Z83.1
+233435,185.0,Cancer of prostate,Family history of human immunodeficiency virus [HIV] disease,ICD10CM,Z83.0,2.0322721577322174,ICD10CM:Z83.0
+233434,185.0,Cancer of prostate,Family history of other specific disorders,ICD10CM,Z83,2.0322721577322174,ICD10CM:Z83
+233433,185.0,Cancer of prostate,"Family history of other disabilities and chronic diseases leading to disablement, not elsewhere classified",ICD10CM,Z82.8,2.0322721577322174,ICD10CM:Z82.8
+233456,185.0,Cancer of prostate,Family history of consanguinity,ICD10CM,Z84.3,2.0322721577322174,ICD10CM:Z84.3
+233457,185.0,Cancer of prostate,Family history of other specified conditions,ICD10CM,Z84.8,2.0322721577322174,ICD10CM:Z84.8
+233458,185.0,Cancer of prostate,Family history of carrier of genetic disease,ICD10CM,Z84.81,2.0322721577322174,ICD10CM:Z84.81
+233424,185.0,Cancer of prostate,Family history of ischemic heart disease and other diseases of the circulatory system,ICD10CM,Z82.49,2.0322721577322174,ICD10CM:Z82.49
+233414,185.0,Cancer of prostate,Family history of other psychoactive substance abuse and dependence,ICD10CM,Z81.3,2.0322721577322174,ICD10CM:Z81.3
+233415,185.0,Cancer of prostate,Family history of other substance abuse and dependence,ICD10CM,Z81.4,2.0322721577322174,ICD10CM:Z81.4
+233416,185.0,Cancer of prostate,Family history of other mental and behavioral disorders,ICD10CM,Z81.8,2.0322721577322174,ICD10CM:Z81.8
+233417,185.0,Cancer of prostate,Family history of certain disabilities and chronic diseases (leading to disablement),ICD10CM,Z82,2.0322721577322174,ICD10CM:Z82
+233418,185.0,Cancer of prostate,Family history of epilepsy and other diseases of the nervous system,ICD10CM,Z82.0,2.0322721577322174,ICD10CM:Z82.0
+233419,185.0,Cancer of prostate,Family history of blindness and visual loss,ICD10CM,Z82.1,2.0322721577322174,ICD10CM:Z82.1
+233420,185.0,Cancer of prostate,Family history of deafness and hearing loss,ICD10CM,Z82.2,2.0322721577322174,ICD10CM:Z82.2
+233421,185.0,Cancer of prostate,Family history of stroke,ICD10CM,Z82.3,2.0322721577322174,ICD10CM:Z82.3
+233423,185.0,Cancer of prostate,Family history of sudden cardiac death,ICD10CM,Z82.41,2.0322721577322174,ICD10CM:Z82.41
+233422,185.0,Cancer of prostate,Family history of ischemic heart disease and other diseases of the circulatory system,ICD10CM,Z82.4,2.0322721577322174,ICD10CM:Z82.4
+233425,185.0,Cancer of prostate,Family history of asthma and other chronic lower respiratory diseases,ICD10CM,Z82.5,2.0322721577322174,ICD10CM:Z82.5
+233426,185.0,Cancer of prostate,Family history of arthritis and other diseases of the musculoskeletal system and connective tissue,ICD10CM,Z82.6,2.0322721577322174,ICD10CM:Z82.6
+233427,185.0,Cancer of prostate,Family history of arthritis,ICD10CM,Z82.61,2.0322721577322174,ICD10CM:Z82.61
+233428,185.0,Cancer of prostate,Family history of osteoporosis,ICD10CM,Z82.62,2.0322721577322174,ICD10CM:Z82.62
+233429,185.0,Cancer of prostate,Family history of other diseases of the musculoskeletal system and connective tissue,ICD10CM,Z82.69,2.0322721577322174,ICD10CM:Z82.69
+233430,185.0,Cancer of prostate,"Family history of congenital malformations, deformations and chromosomal abnormalities",ICD10CM,Z82.7,2.0322721577322174,ICD10CM:Z82.7
+233460,185.0,Cancer of prostate,Family history of other specified conditions,ICD10CM,Z84.89,2.0322721577322174,ICD10CM:Z84.89
+233459,185.0,Cancer of prostate,Family history of sudden infant death syndrome,ICD10CM,Z84.82,2.0322721577322174,ICD10CM:Z84.82
+233432,185.0,Cancer of prostate,"Family history of other congenital malformations, deformations and chromosomal abnormalities",ICD10CM,Z82.79,2.0322721577322174,ICD10CM:Z82.79
+233624,185.0,Cancer of prostate,Androgen receptor agonist,SNOMEDCT_US,126162007,1.974509438092954,SNOMEDCT_US:126162007
+233791,185.0,Cancer of prostate,Androgen,SNOMEDCT_US,84629008,1.974509438092954,SNOMEDCT_US:84629008
+233789,185.0,Cancer of prostate,Androgen product,SNOMEDCT_US,768752005,1.974509438092954,SNOMEDCT_US:768752005
+233573,185.0,Cancer of prostate,Androgens,LNC,31654-4,1.974509438092954,LNC:31654-4
+233778,185.0,Cancer of prostate,"Androgen preparation, NOS",SNOMEDCT_US,66349002,1.974509438092954,SNOMEDCT_US:66349002
+233580,185.0,Cancer of prostate,Androgen receptor,LNC,68364-6,1.9601542504514768,LNC:68364-6
+233775,185.0,Cancer of prostate,Androgen receptor,SNOMEDCT_US,65407002,1.9601542504514768,SNOMEDCT_US:65407002
+233534,185.0,Cancer of prostate,Med: Prostatectomy,LNC,25558-0,1.9600923199744007,LNC:25558-0
+233618,185.0,Cancer of prostate,Prostate excision,SNOMEDCT_US,108050006,1.9600923199744007,SNOMEDCT_US:108050006
+233796,185.0,Cancer of prostate,Prostate excision,SNOMEDCT_US,90470006,1.9600923199744007,SNOMEDCT_US:90470006
+233648,185.0,Cancer of prostate,Prostatectomy NOS,SNOMEDCT_US,149716003,1.9600923199744007,SNOMEDCT_US:149716003
+233645,185.0,Cancer of prostate,Prostatectomy,SNOMEDCT_US,149710009,1.9600923199744007,SNOMEDCT_US:149710009
+233714,185.0,Cancer of prostate,Prostatectomy NOS,SNOMEDCT_US,287780008,1.9600923199744007,SNOMEDCT_US:287780008
+233307,185.0,Cancer of prostate,Excision Procedures on the Prostate,CPT,1008656,1.9600923199744007,CPT:1008656
+233309,185.0,Cancer of prostate,"Ultrasound, transrectal",CPT,1014258,1.9192989442540824,CPT:1014258
+233311,185.0,Cancer of prostate,US TRANSRECTAL,CPT,76872,1.9192989442540824,CPT:76872
+233679,185.0,Cancer of prostate,Haematospermia,SNOMEDCT_US,198061004,1.91202218899564,SNOMEDCT_US:198061004
+233660,185.0,Cancer of prostate,Haemospermia,SNOMEDCT_US,155940003,1.91202218899564,SNOMEDCT_US:155940003
+233381,185.0,Cancer of prostate,"Abnormal level of other drugs, medicaments and biological substances in specimens from male genital organs",ICD10CM,R86.2,1.91202218899564,ICD10CM:R86.2
+233386,185.0,Cancer of prostate,Abnormal histological findings in specimens from male genital organs,ICD10CM,R86.7,1.91202218899564,ICD10CM:R86.7
+233385,185.0,Cancer of prostate,Abnormal cytological findings in specimens from male genital organs,ICD10CM,R86.6,1.91202218899564,ICD10CM:R86.6
+233387,185.0,Cancer of prostate,Other abnormal findings in specimens from male genital organs,ICD10CM,R86.8,1.91202218899564,ICD10CM:R86.8
+233388,185.0,Cancer of prostate,Unspecified abnormal finding in specimens from male genital organs,ICD10CM,R86.9,1.91202218899564,ICD10CM:R86.9
+233728,185.0,Cancer of prostate,Blood in semen,SNOMEDCT_US,34615008,1.91202218899564,SNOMEDCT_US:34615008
+233384,185.0,Cancer of prostate,Abnormal microbiological findings in specimens from male genital organs,ICD10CM,R86.5,1.91202218899564,ICD10CM:R86.5
+233383,185.0,Cancer of prostate,Abnormal immunological findings in specimens from male genital organs,ICD10CM,R86.4,1.91202218899564,ICD10CM:R86.4
+233377,185.0,Cancer of prostate,Hematospermia,ICD10CM,R36.1,1.91202218899564,ICD10CM:R36.1
+233378,185.0,Cancer of prostate,Abnormal findings in specimens from male genital organs,ICD10CM,R86,1.91202218899564,ICD10CM:R86
+233512,185.0,Cancer of prostate,Hematospermia,ICD9CM,608.82,1.91202218899564,ICD9CM:608.82
+233382,185.0,Cancer of prostate,Abnormal level of substances chiefly nonmedicinal as to source in specimens from male genital organs,ICD10CM,R86.3,1.91202218899564,ICD10CM:R86.3
+233518,185.0,Cancer of prostate,Nonspecific abnormal findings in semen,ICD9CM,792.2,1.91202218899564,ICD9CM:792.2
+233379,185.0,Cancer of prostate,Abnormal level of enzymes in specimens from male genital organs,ICD10CM,R86.0,1.91202218899564,ICD10CM:R86.0
+233380,185.0,Cancer of prostate,Abnormal level of hormones in specimens from male genital organs,ICD10CM,R86.1,1.91202218899564,ICD10CM:R86.1
+233680,185.0,Cancer of prostate,Haemospermia,SNOMEDCT_US,198078008,1.91202218899564,SNOMEDCT_US:198078008
+233589,185.0,Cancer of prostate,Seminal fluid,LNC,MTHU001927,1.7557863810408123,LNC:MTHU001927
+233780,185.0,Cancer of prostate,Semen,SNOMEDCT_US,6993007,1.7557863810408123,SNOMEDCT_US:6993007
+233546,185.0,Cancer of prostate,Seminal fluid,LNC,17066-9,1.7557863810408123,LNC:17066-9
+233639,185.0,Cancer of prostate,Prostate specific antigen,SNOMEDCT_US,143526001,1.7205834192121603,SNOMEDCT_US:143526001
+233628,185.0,Cancer of prostate,P-30 antigen,SNOMEDCT_US,130634002,1.7205834192121603,SNOMEDCT_US:130634002
+233588,185.0,Cancer of prostate,Prostate specific Ag,LNC,MTHU001466,1.7205834192121603,LNC:MTHU001466
+233615,185.0,Cancer of prostate,P-30 antigen,SNOMEDCT_US,102687007,1.7205834192121603,SNOMEDCT_US:102687007
+233547,185.0,Cancer of prostate,Prostate specific Ag,LNC,18193-0,1.7205834192121603,LNC:18193-0
+233763,185.0,Cancer of prostate,Nomogram chart,SNOMEDCT_US,458291000124106,1.699467966556575,SNOMEDCT_US:458291000124106
+233623,185.0,Cancer of prostate,Bone pain,SNOMEDCT_US,12584003,1.6888049935504652,SNOMEDCT_US:12584003
+233682,185.0,Cancer of prostate,Bone pain,SNOMEDCT_US,203507006,1.6888049935504652,SNOMEDCT_US:203507006
+233597,185.0,Cancer of prostate,Bone pain,LNC,MTHU020858,1.6888049935504652,LNC:MTHU020858
+233464,185.0,Cancer of prostate,Secondary malig neo bone,ICD9CM,198.5,1.671432739903803,ICD9CM:198.5
+233316,185.0,Cancer of prostate,Secondary malignant neoplasm of bone and bone marrow,ICD10CM,C79.5,1.671432739903803,ICD10CM:C79.5
+233318,185.0,Cancer of prostate,Secondary malignant neoplasm of bone marrow,ICD10CM,C79.52,1.671432739903803,ICD10CM:C79.52
+233465,185.0,Cancer of prostate,Secondary neuroendocrine tumor of bone (ADDED),ICD9CM,209.73,1.671432739903803,ICD9CM:209.73
+233319,185.0,Cancer of prostate,Secondary carcinoid tumors of bone,ICD10CM,C7B.03,1.671432739903803,ICD10CM:C7B.03
+233317,185.0,Cancer of prostate,Secondary malignant neoplasm of bone,ICD10CM,C79.51,1.671432739903803,ICD10CM:C79.51
+233798,185.0,Cancer of prostate,Bony metastasis,SNOMEDCT_US,94222008,1.671432739903803,SNOMEDCT_US:94222008
+233654,185.0,Cancer of prostate,Metastasis to bone,SNOMEDCT_US,154572002,1.671432739903803,SNOMEDCT_US:154572002
+233672,185.0,Cancer of prostate,Endoscopic prostatectomy,SNOMEDCT_US,176285000,1.6569354549990616,SNOMEDCT_US:176285000
+233477,185.0,Cancer of prostate,Transurethral prostatectomy,ICD9CM,60.2,1.6569354549990616,ICD9CM:60.2
+233646,185.0,Cancer of prostate,Transurethral prostatectomy,SNOMEDCT_US,149711008,1.6569354549990616,SNOMEDCT_US:149711008
+233795,185.0,Cancer of prostate,Endoscopic prostatectomy,SNOMEDCT_US,90199006,1.6569354549990616,SNOMEDCT_US:90199006
+233781,185.0,Cancer of prostate,Enzalutamide,SNOMEDCT_US,703125003,1.6512211281574267,SNOMEDCT_US:703125003
+233611,185.0,Cancer of prostate,Xtandi,RXNORM,1307304,1.6512211281574267,RXNORM:1307304
+233610,185.0,Cancer of prostate,enzalutamide,RXNORM,1307298,1.6512211281574267,RXNORM:1307298
+233782,185.0,Cancer of prostate,Enzalutamide,SNOMEDCT_US,703684000,1.6512211281574267,SNOMEDCT_US:703684000
+233576,185.0,Cancer of prostate,Metastasis,LNC,35033-7,1.6425335474932137,LNC:35033-7
+233723,185.0,Cancer of prostate,Prostatic glandular tissue,SNOMEDCT_US,33381007,1.6163165807190585,SNOMEDCT_US:33381007
+233371,185.0,Cancer of prostate,Gross hematuria,ICD10CM,R31.0,1.5973106884453911,ICD10CM:R31.0
+233766,185.0,Cancer of prostate,Blood in urine - haematuria,SNOMEDCT_US,53298000,1.5973106884453911,SNOMEDCT_US:53298000
+233676,185.0,Cancer of prostate,Haematuria,SNOMEDCT_US,197937006,1.5973106884453911,SNOMEDCT_US:197937006
+233637,185.0,Cancer of prostate,Blood - urine - symptom,SNOMEDCT_US,139416001,1.5973106884453911,SNOMEDCT_US:139416001
+233636,185.0,Cancer of prostate,Blood - urine - symptom,SNOMEDCT_US,139414003,1.5973106884453911,SNOMEDCT_US:139414003
+233696,185.0,Cancer of prostate,Haematuria,SNOMEDCT_US,266568001,1.5973106884453911,SNOMEDCT_US:266568001
+233370,185.0,Cancer of prostate,Hematuria,ICD10CM,R31,1.5973106884453911,ICD10CM:R31
+233476,185.0,Cancer of prostate,Gross hematuria,ICD9CM,599.71,1.5973106884453911,ICD9CM:599.71
+233475,185.0,Cancer of prostate,Hematuria NOS,ICD9CM,599.70,1.5973106884453911,ICD9CM:599.70
+233474,185.0,Cancer of prostate,Hematuria,ICD9CM,599.7,1.5973106884453911,ICD9CM:599.7
+233657,185.0,Cancer of prostate,Haematuria NOS,SNOMEDCT_US,155895005,1.5973106884453911,SNOMEDCT_US:155895005
+233372,185.0,Cancer of prostate,"Hematuria, unspecified",ICD10CM,R31.9,1.5973106884453911,ICD10CM:R31.9
+233664,185.0,Cancer of prostate,Blood in urine (& symptom),SNOMEDCT_US,162136002,1.5973106884453911,SNOMEDCT_US:162136002
+233700,185.0,Cancer of prostate,Blood in urine - haematuria,SNOMEDCT_US,267066000,1.5973106884453911,SNOMEDCT_US:267066000
+233727,185.0,Cancer of prostate,Blood in urine,SNOMEDCT_US,34436003,1.5973106884453911,SNOMEDCT_US:34436003
+233717,185.0,Cancer of prostate,Haematuria NOS,SNOMEDCT_US,307414005,1.5973106884453911,SNOMEDCT_US:307414005
+233701,185.0,Cancer of prostate,Blood - urine - symptom,SNOMEDCT_US,267167006,1.5973106884453911,SNOMEDCT_US:267167006
+233702,185.0,Cancer of prostate,Blood - urine - symptom,SNOMEDCT_US,267168001,1.5973106884453911,SNOMEDCT_US:267168001
+233365,185.0,Cancer of prostate,Erectile dysfunction following interstitial seed therapy,ICD10CM,N52.36,1.5905590305562058,ICD10CM:N52.36
+233675,185.0,Cancer of prostate,[X] Male erectile disorder,SNOMEDCT_US,192466005,1.5905590305562058,SNOMEDCT_US:192466005
+233655,185.0,Cancer of prostate,Impotence,SNOMEDCT_US,154905005,1.5905590305562058,SNOMEDCT_US:154905005
+233748,185.0,Cancer of prostate,Erectile dysfunction,SNOMEDCT_US,398175007,1.5905590305562058,SNOMEDCT_US:398175007
+233359,185.0,Cancer of prostate,Postprocedural erectile dysfunction,ICD10CM,N52.3,1.5905590305562058,ICD10CM:N52.3
+233509,185.0,Cancer of prostate,Impotence of organic origin,ICD9CM,607.84,1.5905590305562058,ICD9CM:607.84
+233358,185.0,Cancer of prostate,Drug-induced erectile dysfunction,ICD10CM,N52.2,1.5905590305562058,ICD10CM:N52.2
+233361,185.0,Cancer of prostate,Erectile dysfunction following radical cystectomy,ICD10CM,N52.32,1.5905590305562058,ICD10CM:N52.32
+233357,185.0,Cancer of prostate,Erectile dysfunction due to diseases classified elsewhere,ICD10CM,N52.1,1.5905590305562058,ICD10CM:N52.1
+233356,185.0,Cancer of prostate,Combined arterial insufficiency and corporo-venous occlusive erectile dysfunction,ICD10CM,N52.03,1.5905590305562058,ICD10CM:N52.03
+233324,185.0,Cancer of prostate,Other sexual dysfunction not due to a substance or known physiological condition,ICD10CM,F52.8,1.5905590305562058,ICD10CM:F52.8
+233369,185.0,Cancer of prostate,Impotence NOS,ICD10CM,N52.9,1.5905590305562058,ICD10CM:N52.9
+233724,185.0,Cancer of prostate,Erectile dysfunction,SNOMEDCT_US,33967003,1.5905590305562058,SNOMEDCT_US:33967003
+233321,185.0,Cancer of prostate,Sexual arousal disorders,ICD10CM,F52.2,1.5905590305562058,ICD10CM:F52.2
+233360,185.0,Cancer of prostate,Erectile dysfunction following radical prostatectomy,ICD10CM,N52.31,1.5905590305562058,ICD10CM:N52.31
+233747,185.0,Cancer of prostate,Erectile dysfunction,SNOMEDCT_US,397803000,1.5905590305562058,SNOMEDCT_US:397803000
+233367,185.0,Cancer of prostate,Other and unspecified postprocedural erectile dysfunction,ICD10CM,N52.39,1.5905590305562058,ICD10CM:N52.39
+233362,185.0,Cancer of prostate,Erectile dysfunction following urethral surgery,ICD10CM,N52.33,1.5905590305562058,ICD10CM:N52.33
+233363,185.0,Cancer of prostate,Erectile dysfunction following simple prostatectomy,ICD10CM,N52.34,1.5905590305562058,ICD10CM:N52.34
+233467,185.0,Cancer of prostate,Psychosexual dysfunction with inhibited sexual excitement,ICD9CM,302.72,1.5905590305562058,ICD9CM:302.72
+233352,185.0,Cancer of prostate,Male erectile dysfunction,ICD10CM,N52,1.5905590305562058,ICD10CM:N52
+233364,185.0,Cancer of prostate,Erectile dysfunction following radiation therapy,ICD10CM,N52.35,1.5905590305562058,ICD10CM:N52.35
+233353,185.0,Cancer of prostate,Vasculogenic erectile dysfunction,ICD10CM,N52.0,1.5905590305562058,ICD10CM:N52.0
+233366,185.0,Cancer of prostate,Erectile dysfunction following prostate ablative therapy,ICD10CM,N52.37,1.5905590305562058,ICD10CM:N52.37
+233731,185.0,Cancer of prostate,Impotence,SNOMEDCT_US,367115006,1.5905590305562058,SNOMEDCT_US:367115006
+233322,185.0,Cancer of prostate,Erectile disorder,ICD10CM,F52.21,1.5905590305562058,ICD10CM:F52.21
+233703,185.0,Cancer of prostate,Impotence,SNOMEDCT_US,268762007,1.5905590305562058,SNOMEDCT_US:268762007
+233368,185.0,Cancer of prostate,Other male erectile dysfunction,ICD10CM,N52.8,1.5905590305562058,ICD10CM:N52.8
+233686,185.0,Cancer of prostate,Impotence,SNOMEDCT_US,23781003,1.5905590305562058,SNOMEDCT_US:23781003
+233323,185.0,Cancer of prostate,Female sexual arousal disorder,ICD10CM,F52.22,1.5905590305562058,ICD10CM:F52.22
+233354,185.0,Cancer of prostate,Erectile dysfunction due to arterial insufficiency,ICD10CM,N52.01,1.5905590305562058,ICD10CM:N52.01
+233355,185.0,Cancer of prostate,Corporo-venous occlusive erectile dysfunction,ICD10CM,N52.02,1.5905590305562058,ICD10CM:N52.02
+233688,185.0,Cancer of prostate,Urologist,SNOMEDCT_US,24590004,1.5524291370676186,SNOMEDCT_US:24590004
+233760,185.0,Cancer of prostate,Increase in fat content of the diet compared to the assessed baseline intake of fat for the individual. (Source: Academy of Nutrition and Dietetics Nutrition Informatics Committee 2013),SNOMEDCT_US,436851000124101,1.4924963708524672,SNOMEDCT_US:436851000124101
+233614,185.0,Cancer of prostate,High fat diet,SNOMEDCT_US,102269000,1.4924963708524672,SNOMEDCT_US:102269000
+233638,185.0,Cancer of prostate,High fat diet NOS,SNOMEDCT_US,139790007,1.4924963708524672,SNOMEDCT_US:139790007
+233685,185.0,Cancer of prostate,HF - High fat diet,SNOMEDCT_US,226097005,1.4924963708524672,SNOMEDCT_US:226097005
+233665,185.0,Cancer of prostate,High fat diet NOS,SNOMEDCT_US,162518008,1.4924963708524672,SNOMEDCT_US:162518008
+233762,185.0,Cancer of prostate,Intensity modulated radiation therapy,SNOMEDCT_US,441799006,1.4158698811351065,SNOMEDCT_US:441799006
+233729,185.0,Cancer of prostate,Gland structure,SNOMEDCT_US,362884007,1.4153266495886454,SNOMEDCT_US:362884007
+233631,185.0,Cancer of prostate,Gland,SNOMEDCT_US,134358001,1.4153266495886454,SNOMEDCT_US:134358001
+233713,185.0,Cancer of prostate,"Gland, NOS",SNOMEDCT_US,2861001,1.4153266495886454,SNOMEDCT_US:2861001
+233609,185.0,Cancer of prostate,Zytiga,RXNORM,1100076,1.3971871084408996,RXNORM:1100076
+233310,185.0,Cancer of prostate,LOW RISK OF RECURRENCE PROSTATE CANCER,CPT,3271F,1.3971871084408996,CPT:3271F
+233598,185.0,Cancer of prostate,Life expectancy,LNC,MTHU021387,1.3885703816497803,LNC:MTHU021387
+233752,185.0,Cancer of prostate,Dutasteride,SNOMEDCT_US,408009000,1.3726645216617734,SNOMEDCT_US:408009000
+233736,185.0,Cancer of prostate,Dutasteride,SNOMEDCT_US,385572003,1.3726645216617734,SNOMEDCT_US:385572003
+233612,185.0,Cancer of prostate,Dutasteride,RXNORM,228790,1.3726645216617734,RXNORM:228790
+233735,185.0,Cancer of prostate,Dutasteride,SNOMEDCT_US,385570006,1.3726645216617734,SNOMEDCT_US:385570006
+233764,185.0,Cancer of prostate,Animal fat,SNOMEDCT_US,46840004,1.359527345244622,SNOMEDCT_US:46840004
+233629,185.0,Cancer of prostate,Animal fat,SNOMEDCT_US,13150000,1.359527345244622,SNOMEDCT_US:13150000
+233570,185.0,Cancer of prostate,Testicle,LNC,30322-9,1.3395370757374845,LNC:30322-9
+233542,185.0,Cancer of prostate,Testis,LNC,124832-9,1.3395370757374845,LNC:124832-9
+233751,185.0,Cancer of prostate,Male gonad,SNOMEDCT_US,40689003,1.3395370757374845,SNOMEDCT_US:40689003
+233577,185.0,Cancer of prostate,Testis,LNC,36008-8,1.3395370757374845,LNC:36008-8
+233548,185.0,Cancer of prostate,Testes,LNC,18510-5,1.3395370757374845,LNC:18510-5
+233560,185.0,Cancer of prostate,Testicle,LNC,220353-9,1.3395370757374845,LNC:220353-9
+233603,185.0,Cancer of prostate,Testis,LNC,MTHU040200,1.3395370757374845,LNC:MTHU040200
+233708,185.0,Cancer of prostate,Testicle structure,SNOMEDCT_US,279572002,1.3395370757374845,SNOMEDCT_US:279572002
+233558,185.0,Cancer of prostate,Bone,LNC,209032-4,1.3258980148273265,LNC:209032-4
+233622,185.0,Cancer of prostate,"Bone, NOS",SNOMEDCT_US,113192009,1.3258980148273265,SNOMEDCT_US:113192009
+233705,185.0,Cancer of prostate,Bone structure,SNOMEDCT_US,272673000,1.3258980148273265,SNOMEDCT_US:272673000
+233537,185.0,Cancer of prostate,Bone,LNC,4277-5,1.3258980148273265,LNC:4277-5
+233559,185.0,Cancer of prostate,Bones,LNC,212843-9,1.3258980148273265,LNC:212843-9
+233592,185.0,Cancer of prostate,Bone,LNC,MTHU002077,1.3258980148273265,LNC:MTHU002077
+233567,185.0,Cancer of prostate,Bone,LNC,29159-8,1.3258980148273265,LNC:29159-8
+233568,185.0,Cancer of prostate,Bones,LNC,29835-3,1.3258980148273265,LNC:29835-3
+233770,185.0,Cancer of prostate,Penile erection,SNOMEDCT_US,60704006,1.3185313490805286,SNOMEDCT_US:60704006
+233755,185.0,Cancer of prostate,Spread,SNOMEDCT_US,410677005,1.3127507534388914,SNOMEDCT_US:410677005
+233787,185.0,Cancer of prostate,Spread,SNOMEDCT_US,73258001,1.3127507534388914,SNOMEDCT_US:73258001
+233754,185.0,Cancer of prostate,Spreading,SNOMEDCT_US,410676001,1.3127507534388914,SNOMEDCT_US:410676001
+233719,185.0,Cancer of prostate,[D] Raised PSA,SNOMEDCT_US,309726006,1.2930532645752464,SNOMEDCT_US:309726006
+233684,185.0,Cancer of prostate,[D] Raised prostatic specific antigen,SNOMEDCT_US,207504000,1.2930532645752464,SNOMEDCT_US:207504000
+233563,185.0,Cancer of prostate,Lymph node(s),LNC,238883-5,1.2915562963023506,LNC:238883-5
+233581,185.0,Cancer of prostate,Lymph node,LNC,72888-8,1.2915562963023506,LNC:72888-8
+233768,185.0,Cancer of prostate,Lymph gland,SNOMEDCT_US,59441001,1.2915562963023506,SNOMEDCT_US:59441001
+233550,185.0,Cancer of prostate,Lymph node,LNC,199987-1,1.2915562963023506,LNC:199987-1
+233607,185.0,Cancer of prostate,Lymph node(s),LNC,MTHU055419,1.2915562963023506,LNC:MTHU055419
+233594,185.0,Cancer of prostate,Lymph node,LNC,MTHU015050,1.2915562963023506,LNC:MTHU015050
+233549,185.0,Cancer of prostate,Rectum,LNC,199942-6,1.280914331515644,LNC:199942-6
+233726,185.0,Cancer of prostate,Rectal structure,SNOMEDCT_US,34402009,1.280914331515644,SNOMEDCT_US:34402009
+233587,185.0,Cancer of prostate,Rectum,LNC,MTHU001439,1.280914331515644,LNC:MTHU001439
+233532,185.0,Cancer of prostate,Rectum,LNC,16840-3,1.280914331515644,LNC:16840-3
+233583,185.0,Cancer of prostate,Rectum,LNC,7540-0,1.280914331515644,LNC:7540-0
+233625,185.0,Cancer of prostate,Prostate tissue sample,SNOMEDCT_US,128170008,1.2635004865278587,SNOMEDCT_US:128170008
+233786,185.0,Cancer of prostate,Prostatic portion of urethra,SNOMEDCT_US,71553001,1.2544590847836163,SNOMEDCT_US:71553001
+233790,185.0,Cancer of prostate,Prostatic fluid,SNOMEDCT_US,81689006,1.1896275765896027,SNOMEDCT_US:81689006
+233769,185.0,Cancer of prostate,Capsule of prostate,SNOMEDCT_US,60405008,1.1855742383022825,SNOMEDCT_US:60405008
+233738,185.0,Cancer of prostate,Finasteride,SNOMEDCT_US,386963006,1.1760553919846406,SNOMEDCT_US:386963006
+233613,185.0,Cancer of prostate,Finasteride,RXNORM,25025,1.1760553919846406,RXNORM:25025
+233540,185.0,Cancer of prostate,Finasteride,LNC,101034-9,1.1760553919846406,LNC:101034-9
+233621,185.0,Cancer of prostate,Finasteride,SNOMEDCT_US,109035006,1.1760553919846406,SNOMEDCT_US:109035006
+233601,185.0,Cancer of prostate,Finasteride,LNC,MTHU036233,1.1760553919846406,LNC:MTHU036233
+233671,185.0,Cancer of prostate,Flow of urine,SNOMEDCT_US,17328006,1.1644542840035372,SNOMEDCT_US:17328006
+233635,185.0,Cancer of prostate,Flow of urine,SNOMEDCT_US,139403001,1.1644542840035372,SNOMEDCT_US:139403001
+233746,185.0,Cancer of prostate,Agent Orange,SNOMEDCT_US,396189008,1.160110921362357,SNOMEDCT_US:396189008
+233710,185.0,Cancer of prostate,Surface of prostate,SNOMEDCT_US,279694003,1.1431530887243724,SNOMEDCT_US:279694003
+233658,185.0,Cancer of prostate,Prostatitis,SNOMEDCT_US,155907007,1.137859511141522,SNOMEDCT_US:155907007
+233677,185.0,Cancer of prostate,Prostate inflammatory diseases,SNOMEDCT_US,197962006,1.137859511141522,SNOMEDCT_US:197962006
+233678,185.0,Cancer of prostate,Prostatitis NOS,SNOMEDCT_US,197971002,1.137859511141522,SNOMEDCT_US:197971002
+233659,185.0,Cancer of prostate,Prostatitis NOS,SNOMEDCT_US,155911001,1.137859511141522,SNOMEDCT_US:155911001
+233698,185.0,Cancer of prostate,Prostatitis,SNOMEDCT_US,266637008,1.137859511141522,SNOMEDCT_US:266637008
+233681,185.0,Cancer of prostate,Health screening,SNOMEDCT_US,20135006,1.134249206102613,SNOMEDCT_US:20135006
+233643,185.0,Cancer of prostate,Screening,SNOMEDCT_US,148322003,1.134249206102613,SNOMEDCT_US:148322003
+233644,185.0,Cancer of prostate,Screening NOS,SNOMEDCT_US,148549002,1.134249206102613,SNOMEDCT_US:148549002
+233575,185.0,Cancer of prostate,Screening,LNC,34059-3,1.134249206102613,LNC:34059-3
+233670,185.0,Cancer of prostate,Screening NOS,SNOMEDCT_US,171335007,1.134249206102613,SNOMEDCT_US:171335007
+233669,185.0,Cancer of prostate,Screening,SNOMEDCT_US,171099007,1.134249206102613,SNOMEDCT_US:171099007
+233554,185.0,Cancer of prostate,Screening,LNC,200187-5,1.134249206102613,LNC:200187-5
+233737,185.0,Cancer of prostate,Health problem screening,SNOMEDCT_US,386319005,1.134249206102613,SNOMEDCT_US:386319005
+233569,185.0,Cancer of prostate,Brother,LNC,29863-5,1.1150228099150037,LNC:29863-5
+233740,185.0,Cancer of prostate,Brother,SNOMEDCT_US,393499004,1.1150228099150037,SNOMEDCT_US:393499004
+233784,185.0,Cancer of prostate,Brother,SNOMEDCT_US,70924004,1.1150228099150037,SNOMEDCT_US:70924004
+233742,185.0,Cancer of prostate,Brother,SNOMEDCT_US,394449007,1.1150228099150037,SNOMEDCT_US:394449007
+233743,185.0,Cancer of prostate,Brother,SNOMEDCT_US,394621006,1.1150228099150037,SNOMEDCT_US:394621006
+233526,185.0,Cancer of prostate,Brother,LNC,10415-0,1.1150228099150037,LNC:10415-0
+233627,185.0,Cancer of prostate,Cryosurgery - action,SNOMEDCT_US,129393004,1.1137154607847806,SNOMEDCT_US:129393004
+233566,185.0,Cancer of prostate,Cryoablation,LNC,263435-2,1.1137154607847806,LNC:263435-2
+233758,185.0,Cancer of prostate,Cryosurgery,SNOMEDCT_US,427357007,1.1137154607847806,SNOMEDCT_US:427357007
+233712,185.0,Cancer of prostate,Cryocautery,SNOMEDCT_US,281698007,1.1137154607847806,SNOMEDCT_US:281698007
+233711,185.0,Cancer of prostate,Cryoablation,SNOMEDCT_US,281609006,1.1137154607847806,SNOMEDCT_US:281609006
+233765,185.0,Cancer of prostate,Cryocautery,SNOMEDCT_US,5269003,1.1137154607847806,SNOMEDCT_US:5269003
+233516,185.0,Cancer of prostate,Nocturia,ICD9CM,788.43,1.1037799880016692,ICD9CM:788.43
+233721,185.0,Cancer of prostate,Frequency of urination,SNOMEDCT_US,31462008,1.1037799880016692,SNOMEDCT_US:31462008
+233533,185.0,Cancer of prostate,Increased urinary frequency,LNC,25315-5,1.1037799880016692,LNC:25315-5
+233515,185.0,Cancer of prostate,Polyuria,ICD9CM,788.42,1.1037799880016692,ICD9CM:788.42
+233514,185.0,Cancer of prostate,Urinary frequency,ICD9CM,788.41,1.1037799880016692,ICD9CM:788.41
+233513,185.0,Cancer of prostate,Frequency of urination and polyuria,ICD9CM,788.4,1.1037799880016692,ICD9CM:788.4
+233633,185.0,Cancer of prostate,Frequency of micturition,SNOMEDCT_US,139391008,1.1037799880016692,SNOMEDCT_US:139391008
+233634,185.0,Cancer of prostate,Frequency of micturition,SNOMEDCT_US,139393006,1.1037799880016692,SNOMEDCT_US:139393006
+233715,185.0,Cancer of prostate,FOM - Frequency of micturition,SNOMEDCT_US,300471006,1.1037799880016692,SNOMEDCT_US:300471006
+233373,185.0,Cancer of prostate,Polyuria,ICD10CM,R35,1.1037799880016692,ICD10CM:R35
+233374,185.0,Cancer of prostate,Frequency of micturition,ICD10CM,R35.0,1.1037799880016692,ICD10CM:R35.0
+233683,185.0,Cancer of prostate,Frequency of micturition [D],SNOMEDCT_US,207175005,1.1037799880016692,SNOMEDCT_US:207175005
+233704,185.0,Cancer of prostate,Frequency of micturition,SNOMEDCT_US,270525008,1.1037799880016692,SNOMEDCT_US:270525008
+233663,185.0,Cancer of prostate,Micturition frequency NOS,SNOMEDCT_US,162117007,1.1037799880016692,SNOMEDCT_US:162117007
+233662,185.0,Cancer of prostate,FOM - Frequency of micturition,SNOMEDCT_US,162116003,1.1037799880016692,SNOMEDCT_US:162116003
+233661,185.0,Cancer of prostate,Frequency of micturition,SNOMEDCT_US,162114000,1.1037799880016692,SNOMEDCT_US:162114000
+233376,185.0,Cancer of prostate,Other polyuria,ICD10CM,R35.8,1.1037799880016692,ICD10CM:R35.8
+233689,185.0,Cancer of prostate,Increased frequency of urination,SNOMEDCT_US,249290008,1.1037799880016692,SNOMEDCT_US:249290008
+233375,185.0,Cancer of prostate,Nocturia,ICD10CM,R35.1,1.1037799880016692,ICD10CM:R35.1
+233699,185.0,Cancer of prostate,FOM - Frequency of micturition,SNOMEDCT_US,267063008,1.1037799880016692,SNOMEDCT_US:267063008
+233651,185.0,Cancer of prostate,Immunological therapy NOS,SNOMEDCT_US,151304002,1.089209467010772,SNOMEDCT_US:151304002
+233788,185.0,Cancer of prostate,Biological response modifier therapy,SNOMEDCT_US,76334006,1.089209467010772,SNOMEDCT_US:76334006
+233630,185.0,Cancer of prostate,Biological response modifier therapy,SNOMEDCT_US,13375007,1.089209467010772,SNOMEDCT_US:13375007
+233650,185.0,Cancer of prostate,Immunological therapy,SNOMEDCT_US,151302003,1.089209467010772,SNOMEDCT_US:151302003
+233667,185.0,Cancer of prostate,Immunotherapy,SNOMEDCT_US,169412007,1.089209467010772,SNOMEDCT_US:169412007
+233674,185.0,Cancer of prostate,Immunological therapy NOS,SNOMEDCT_US,183024007,1.089209467010772,SNOMEDCT_US:183024007
+233641,185.0,Cancer of prostate,Immunotherapy,SNOMEDCT_US,146638005,1.089209467010772,SNOMEDCT_US:146638005
